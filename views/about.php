@@ -185,7 +185,7 @@
                 </div>
             </div>
             <div class="max-w-1250 mb-100">
-                <p class="fa-20 text-center">At algosecom, our philosophy is to help entrepreneurs and business owners build successful online stores with minimal hassle by providing them ecommerce outsourcing services. Our ecommerce consultant understands that running an e-commerce business can be challenging, especially when you're juggling multiple tasks at once. With the right tools and systems in place, you can streamline your business processes, reduce costs, and deliver an exceptional customer experience, that's why our ecom automation agency offers "done for you" e-commerce automation services. Our team of experts is dedicated to helping you launch and scale your online store with ease. An ecommerce services provider will handle all the technical details so you can focus on what matters most - growing your business and serving your customers.</p>
+                <p class="fa-20 text-center">At algosecom, our philosophy is to help entrepreneurs and business owners build successful online stores with minimal hassle by providing them ecommerce outsourcing services. Our ecommerce consultant understands that running an e-commerce business can be challenging, especially when you're juggling multiple tasks at once. With the right tools and systems in place, you can streamline your business processes, reduce costs, and deliver an exceptional customer experience, that's why our ecom automation agency offers "Automation" e-commerce automation services. Our team of experts is dedicated to helping you launch and scale your online store with ease. An ecommerce services provider will handle all the technical details so you can focus on what matters most - growing your business and serving your customers.</p>
             </div>
         </div>
     </section>
@@ -307,116 +307,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="testimonial-slider">
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Anna</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/anna.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Anna.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Bill</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/bill.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Bill.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henesen</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/hensen.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henesen.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henrick</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/henrick.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henrick.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Jennifer</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/jennifer.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Jennifer.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Scott</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/scott.webp" alt="algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Scott.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
                             <span>View All</span>

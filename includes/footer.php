@@ -42,7 +42,7 @@
                         <div class="col-2-footer">
                              <!--bigger-column line-between-->
                             <!--<h6>Services</h6>-->
-                            <h6>Done For You</h6>
+                            <h6>Automation</h6>
                             <ul class="links-footer">
                                 <li><a href="amazon-wholesale-fba/">Amazon Wholesale FBA</a></li>
                                             
@@ -66,7 +66,7 @@
                             </ul>
                         </div>
                         <div class="col-2-footer">
-                            <h6>Just IN TIME</h6>
+                            <h6>Step Wise</h6>
                             <ul class="links-footer">
                                 <li class="close-dropdownonsmallscreen"><button><i class="fas fa-close"></i></button></li>
                                 
@@ -100,7 +100,7 @@
                                     <a href="mailto:info@algosecom.com">info@algosecom.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:+0000000000">+000 0000 000</a>
+                                    <a href="tel:7864328540">(786) 432-8540</a>
                                 </li>
                             </ul>
                         </div>
@@ -135,21 +135,21 @@
                         <div class="icon-footer">
                             <ul>
                                 <li>
-                                    <a href="">
+                                    <a href="https://www.facebook.com/algosecom">
                                         <span>
                                             <i class="fab fa-facebook-f"></i>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="">
+                                    <a href="https://www.linkedin.com/company/algosecom">
                                         <span>
                                             <i class="fab fa-linkedin-in"></i>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="">
+                                    <a href="https://www.instagram.com/algosecom">
                                         <span>
                                             <i class="fab fa-instagram"></i>
                                         </span>

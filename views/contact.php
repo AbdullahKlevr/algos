@@ -80,11 +80,11 @@
                                 </div>
                                 <div class="points-of-contact-items">
                                     <h6>Call Us:</h6>
-                                    <a href="tel:+000 0000 000">+000 0000 000</a>
+                                    <a href="tel:(786) 432-8540">(786) 432-8540</a>
                                 </div>
                                 <div class="points-of-contact-items">
                                     <h6>Email Us</h6>
-                                    <a href="mailto:+000 0000 000">info@algosecom.com</a>
+                                    <a href="mailto:(786) 432-8540">info@algosecom.com</a>
                                 </div>
                             </div>
                         </div>
@@ -199,116 +199,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="testimonial-slider">
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Anna</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/anna.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Anna.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Bill</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/bill.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Bill.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henesen</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/hensen.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henesen.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henrick</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/henrick.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henrick.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Jennifer</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/jennifer.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Jennifer.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Scott</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/scott.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Scott.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
                             <span>View All</span>
@@ -430,7 +321,7 @@
                         <div class="col-2-footer">
                              <!--bigger-column line-between-->
                             <!--<h6>Services</h6>-->
-                            <h6>Done For You</h6>
+                            <h6>Automation</h6>
                             <ul class="links-footer">
                                 <li><a href="amazon-wholesale-fba/">Amazon Wholesale FBA</a></li>
                                             
@@ -454,7 +345,7 @@
                             </ul>
                         </div>
                         <div class="col-2-footer">
-                            <h6>Just IN TIME</h6>
+                            <h6>Step Wise</h6>
                             <ul class="links-footer">
                                 <li class="close-dropdownonsmallscreen"><button><i class="fas fa-close"></i></button></li>
                                 
@@ -488,7 +379,7 @@
                                     <a href="mailto:info@algosecom.com">info@algosecom.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:+0000000000">+000 0000 000</a>
+                                    <a href="tel:7864328540">(786) 432-8540</a>
                                 </li>
                             </ul>
                         </div>

@@ -58,7 +58,7 @@
                     <div class="text-portion-feedback text-center">
                         <h2 class="fa-70 font-weight-bold">Our Satisfied <span class="gradient-color"> Clients</span></h2>
                     </div>
-                    <div class="testimonials-page-testimonials-items text-white">
+                    <!-- <div class="testimonials-page-testimonials-items text-white">
                         <div class="testimonial-box active-testimonial-box">
                             <div class="inner-testimonial-box">
                                 <div>
@@ -167,7 +167,7 @@
                                 </span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
             

@@ -23,7 +23,7 @@
                                 <li class="services-dropdown-anchor position-relative">
                                     <a href="javascript:void(0)">
                                         <!--<span>Services</span>-->
-                                        <span>Done For You</span>
+                                        <span>Automation</span>
                                         <span>
                                             <i class="fas fa-chevron-down"></i>
                                         </span>
@@ -55,7 +55,7 @@
                                 </li>
                                 <li class="services-dropdown-anchor position-relative">
                                     <a href="javascript:void(0)">
-                                        <span>Just In Time</span>
+                                        <span>Step Wise</span>
                                         <span>
                                             <i class="fas fa-chevron-down"></i>
                                         </span>
@@ -82,12 +82,12 @@
                         </div>
                         
                         <div class="phone-items-call-me">
-                            <a href="tel:+0000000000">
+                            <a href="tel:7864328540">
                                 <span class="phone-icon">
                                     <i class="fa fa-phone"></i>
                                 </span>
                                 <div>
-                                    <p>+000 0000 000</p>
+                                    <p>(786) 432-8540</p>
                                     <span>Get in Touch With Us</span>
                                 </div>
                             </a>

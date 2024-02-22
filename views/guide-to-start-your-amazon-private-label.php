@@ -45,7 +45,7 @@
                                 <li class="services-dropdown-anchor position-relative">
                                     <a href="javascript:void(0)">
                                         <!--<span>Services</span>-->
-                                        <span>Done For You</span>
+                                        <span>Automation</span>
                                         <span>
                                             <i class="fas fa-chevron-down"></i>
                                         </span>
@@ -77,7 +77,7 @@
                                 </li>
                                 <li class="services-dropdown-anchor position-relative">
                                     <a href="javascript:void(0)">
-                                        <span>Just In Time</span>
+                                        <span>Step Wise</span>
                                         <span>
                                             <i class="fas fa-chevron-down"></i>
                                         </span>
@@ -104,12 +104,12 @@
                         </div>
                         
                         <div class="phone-items-call-me">
-                            <a href="tel:+0000000000">
+                            <a href="tel:7864328540">
                                 <span class="phone-icon">
                                     <i class="fa fa-phone"></i>
                                 </span>
                                 <div>
-                                    <p>+000 0000 000</p>
+                                    <p>(786) 432-8540</p>
                                     <span>Get in Touch With Us</span>
                                 </div>
                             </a>
@@ -210,9 +210,9 @@
 <p>To sort through the fulfillment models and pick the best choice for you, do a detailed comparison between both options.</p>
 <h3>Publish Your Product</h3>
 <p>Finally, you need to develop a successful marketing plan if you want to sell private-label goods on Amazon. You need to develop an effective marketing plan to make sure your target market sees your items in order to get a new listing off the ground. Making a Sponsored Products campaign, enrolling in Brand Registry, Sponsored Brands, and Sponsored Display advertisements are all examples of advertising.&nbsp;</p>
-<h3>Done For You Ecommerce</h3>
-<p>Done For You (DFY) services provide a means to delegate routine tasks to specialists, saving you time, money, and aggravation. Ecommerce is complicated and time-consuming. The sector has been completely transformed by the business model known as done-for-you (DFY) e-commerce, which enables business owners to delegate the day-to-day management of their online shop to professionals who are masters of their trade. This covers every facet of running an online business, including product sourcing, inventory management, marketing, and website design and development.</p>
-<h2>What Are Amazon DFY (Done For You) E-commerce Stores</h2>
+<h3>Automation Ecommerce</h3>
+<p>Automation (DFY) services provide a means to delegate routine tasks to specialists, saving you time, money, and aggravation. Ecommerce is complicated and time-consuming. The sector has been completely transformed by the business model known as done-for-you (DFY) e-commerce, which enables business owners to delegate the day-to-day management of their online shop to professionals who are masters of their trade. This covers every facet of running an online business, including product sourcing, inventory management, marketing, and website design and development.</p>
+<h2>What Are Amazon DFY (Automation) E-commerce Stores</h2>
 <p><a href="amazon-dfy-ecommerce-stores/">Amazon DFY ecommerce stores</a> are ready-to-use, pre-built online shops for selling goods on Amazon. You can start selling fast and effectively with these businesses since they have all the necessary features, like product listings, shopping carts, and payment gateways. They frequently come with editable design options and templates to match your business identity.</p>
 <h2>Selecting a Reputable DFY E-Commerce Store Provider</h2>
 <p><strong>Options for customization</strong>: Seek out vendors who provide you the freedom to alter the store's appearance in a way that best reflects your brand's own personality.</p>
@@ -225,7 +225,7 @@
 <h3>Cost-effective</h3>
 <p>Employing designers, developers, and marketing specialists might cost a lot when starting from scratch to build an online business. A DFY system, however, allows you to scale up or down as your business expands and only pay for the services you really use. This saves you money while still giving you access to high-quality marketing services that will help you reach your target market.</p>
 <h3>Time-Saving</h3>
-<p>The requirement to create an online store from the start is removed with DFY e-commerce stores. By using the pre-built infrastructure and templates, you may save time and effort. With a DFY service, you won't have to worry about managing your regular responsibilities because they will all be done for you. This frees up your time so that you may concentrate on different areas of your company or spend more time with your family.</p>
+<p>The requirement to create an online store from the start is removed with DFY e-commerce stores. By using the pre-built infrastructure and templates, you may save time and effort. With a DFY service, you won't have to worry about managing your regular responsibilities because they will all be Automation. This frees up your time so that you may concentrate on different areas of your company or spend more time with your family.</p>
 <h3>Higher conversion rates</h3>
 <p>The goal of DFY ecommerce solutions is to increase your conversion rates and turn more website visitors into paying clients. DFY ecommerce solutions may assist business owners in maximizing their income potential and raising their return on investment by utilizing tried-and-true methods.</p>
 <p>These components all work together to provide customers with a seamless and pleasurable purchasing experience, which eventually results in improved conversion rates and more money for the business owner.</p>
@@ -295,116 +295,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="testimonial-slider">
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Anna</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/anna.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Anna.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Bill</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/bill.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Bill.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henesen</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/hensen.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henesen.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henrick</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/henrick.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Henrick.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Jennifer</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/jennifer.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Jennifer.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box" data-bs-toggle="modal" data-bs-target="#videomodal">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Scott</h6>
-
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/scott.webp" alt="Algosecom">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls preload="none"> 
-                                      <source src="assets/testimonialvideo/Scott.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
                             <span>View All</span>
