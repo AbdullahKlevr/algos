@@ -430,7 +430,7 @@
                             
                             <h3>Get A Free</h3>
                             <h2 class="service-head gradient-color">Consultancy</h2>
-                            <form class="modal-form form1"><input type="hidden" name="url" value='amazon-publishing.html'>
+                            <form class="modal-form "><input type="hidden" name="url" value='amazon-publishing.html'>
            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
 <input type="hidden" name="brand" value="ALGOSECOM">
 <input type="hidden" name="token" value="<?= $token; ?>">
