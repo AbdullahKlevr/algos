@@ -411,7 +411,14 @@
                             </div>
                         </div>
                         <div class="form-on-top container-1560">
-                            <form  action="/leads/" method="POST">
+                            <form  action="/leads/" method="POST"><input type="hidden" name="url" value='amazon-publishing.html'>
+           <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+<input type="hidden" name="brand" value="ALGOSECOM">
+<input type="hidden" name="token" value="<?= $token; ?>">
+<input type="hidden" name="tag" value="top-form">
+<input type="hidden" name="price" value="null">
+<input type="hidden" name="news" value="1">
+           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <input type="hidden" value="home">
                                 <div class="form-inputs">
                                     <input type="hidden" name="page-name" class="pagename" value="blog-blog1">
@@ -460,10 +467,14 @@
                             
                             <h3>Get A Free</h3>
                             <h2 class="service-head gradient-color">Consultancy</h2>
-                            <form class="modal-form form1">
-                                <input type="hidden" name="page-name" class="pagename" value="blog-blog1">
-                                <input type="hidden" name="service-name" class="servicename" value="">
-                                <input type="hidden" name="service-price" class="serviceprice" value="">
+                            <form class="modal-form form1"><input type="hidden" name="url" value='amazon-publishing.html'>
+           <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+<input type="hidden" name="brand" value="ALGOSECOM">
+<input type="hidden" name="token" value="<?= $token; ?>">
+<input type="hidden" name="tag" value="top-form">
+<input type="hidden" name="price" value="null">
+<input type="hidden" name="news" value="1">
+           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <div class="form-group">
                                     <input type="text" id="name" class="form-control" placeholder="Name*" required>
                                 </div>
