@@ -327,7 +327,7 @@ curl_setopt_array($curl, array(
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">Email</label>
-										<input type="text" name="email" id="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
+										<input type="text" name="email" name="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
 									</div>
 								</div>
 								<div class="col-md-6">

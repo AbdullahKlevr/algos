@@ -162,7 +162,7 @@
                                         <input type="hidden" name="page-name" class="pagename" value="privacypolicy">
                                         <div class="form-inputs">
                                             <label>Hey, my name is</label>
-                                            <input type="text" id="name" placeholder="Name">
+                                            <input type="text" name="name" placeholder="Name">
                                         </div>
                                         <div class="form-inputs">
                                             <label>and I'm looking for</label>
@@ -177,11 +177,11 @@
                                         </div>
                                         <div class="form-inputs">
                                             <label>Get in touch with me at</label>
-                                            <input type="email" id="email" placeholder="Email" required="">
+                                            <input type="email" name="email" placeholder="Email" required="">
                                         </div>
                                         <div class="form-inputs">
                                             <label>Or</label>
-                                            <input type="number" id="number" placeholder="Phone">
+                                            <input type="number" name="phone" placeholder="Phone">
                                         </div>
                                         <div class="form-inputs mb-0">
                                             <label>Start Date</label>
@@ -369,16 +369,16 @@
 <input type="hidden" name="news" value="1">
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <div class="form-group">
-                                    <input type="text" id="name" class="form-control" placeholder="Name*" required>
+                                    <input type="text" name="name" class="form-control" placeholder="Name*" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" id="email" class="form-control" placeholder="Email Address*" required>
+                                    <input type="email" name="email" class="form-control" placeholder="Email Address*" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="number" id="number" class="form-control" placeholder="Phone Number*" required>
+                                    <input type="number" name="phone" class="form-control" placeholder="Phone Number*" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea rows="5" cols="" id="message" class="form-control" placeholder="Message"></textarea>
+                                    <textarea rows="5" cols="" name="brief" class="form-control" placeholder="Message"></textarea>
                                 </div>
                                 <button type="submit" class="btn-reg-form btn-gradient">
                                     <i class="fa fa-long-arrow"></i>

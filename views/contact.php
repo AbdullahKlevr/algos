@@ -100,16 +100,16 @@
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                     <input type="hidden" name="page-name" class="pagename" value="contact">
                                     <div class="form-inputs">
-                                        <input type="text" id="name" placeholder="Your Name" required="">
+                                        <input type="text" name="name" placeholder="Your Name" required="">
                                     </div>
                                     <div class="form-inputs">
-                                        <input type="email" id="email" placeholder="Your Email" required="">
+                                        <input type="email" name="email" placeholder="Your Email" required="">
                                     </div>
                                     <div class="form-inputs">
-                                        <input type="number" id="number" placeholder="Your Phone" required="">
+                                        <input type="number" name="phone" placeholder="Your Phone" required="">
                                     </div>
                                     <div class="form-inputs mb-0">
-                                        <textarea type="text" id="message" placeholder="Your Message" required=""></textarea>
+                                        <textarea type="text" name="brief" placeholder="Your Message" required=""></textarea>
                                     </div>
                                     <div class="form-checkbox">
                                         <input type="checkbox" id="checkboxpp" class="d-none"><label for="checkboxpp" class="designedbox"></label>
@@ -282,7 +282,7 @@
 <input type="hidden" name="news" value="1">
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <input type="hidden" name="page-name" class="pagename" value="contact">
-                                <input type="email" id="email" placeholder="Enter your email here..." required>
+                                <input type="email" name="email" placeholder="Enter your email here..." required>
                                 <button class="btn-reg">Send</button>
                             </form>
                         </div>
@@ -484,16 +484,16 @@ Boulder , CO 80302</p>
 <input type="hidden" name="news" value="1">
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <div class="form-group">
-                                    <input type="text" id="name" class="form-control" placeholder="Name*" required>
+                                    <input type="text" name="name" class="form-control" placeholder="Name*" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" id="email" class="form-control" placeholder="Email Address*" required>
+                                    <input type="email" name="email" class="form-control" placeholder="Email Address*" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="number" id="number" class="form-control" placeholder="Phone Number*" required>
+                                    <input type="number" name="phone" class="form-control" placeholder="Phone Number*" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea rows="5" cols="" id="message" class="form-control" placeholder="Message"></textarea>
+                                    <textarea rows="5" cols="" name="brief" class="form-control" placeholder="Message"></textarea>
                                 </div>
                                 <button type="submit" class="btn-reg-form btn-gradient">
                                     <i class="fa fa-long-arrow"></i>
