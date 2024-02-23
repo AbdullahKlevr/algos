@@ -90,7 +90,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="form-on-top container-1560 form-on-contact-page imageonformback">
-                                <form class="form1" action="/leads/" method="POST">
+                                <form  action="/leads/" method="POST">
                                     <input type="hidden" name="page-name" class="pagename" value="contact">
                                     <div class="form-inputs">
                                         <input type="text" id="name" placeholder="Your Name" required="">
@@ -266,7 +266,7 @@
                     <div class="subscribe-letter-container">
                         <h5>Newsletter Sign Up</h5>
                         <div class="form-input-subscribe">
-                            <form class="form1" action="/leads/" method="POST">
+                            <form  action="/leads/" method="POST">
                                 <input type="hidden" name="page-name" class="pagename" value="contact">
                                 <input type="email" id="email" placeholder="Enter your email here..." required>
                                 <button class="btn-reg">Send</button>

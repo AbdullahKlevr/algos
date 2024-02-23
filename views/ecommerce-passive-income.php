@@ -454,7 +454,7 @@
                             </div>
                         </div>
                         <div class="form-on-top container-1560">
-                            <form class="form1" action="/leads/" method="POST">
+                            <form  action="/leads/" method="POST">
                                 <input type="input" value="home">
                                 <div class="form-inputs">
                                     <input type="hidden" name="page-name" class="pagename" value="blog-blog1">

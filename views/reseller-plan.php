@@ -269,7 +269,7 @@
             <section class="sign-up-for-reseller-plan-image">
                 <div class="contact-us-form-row">
                     <div class="form-portion-resseller">
-                        <form class="form1" action="/leads/" method="POST">
+                        <form  action="/leads/" method="POST">
                             <input type="hidden" name="page-name" class="pagename" value="resellerplan">
                             <h4>Sign up For Reseller Program</h4>
                             <input  id="name" type="text" placeholder="Your Name">
@@ -391,7 +391,7 @@
                             </div>
                         </div>
                         <div class="form-on-top container-1560">
-                            <form class="form1" action="/leads/" method="POST">
+                            <form  action="/leads/" method="POST">
                                 <input type="hidden" value="home">
                                 <div class="form-inputs">
                                     <input type="hidden" name="page-name" class="pagename" value="resellerplan">
