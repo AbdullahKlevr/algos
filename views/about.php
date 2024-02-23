@@ -380,16 +380,23 @@
                         </div>
                         <div class="form-on-top container-1560">
                             <form class="form1" action="/leads/" method="POST">
-                                <input type="hidden" value="home">
+                            <input type="hidden" name="url" value='amazon-publishing.html'>
+           <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+<input type="hidden" name="brand" value="ALGOSECOM">
+<input type="hidden" name="token" value="<?= $token; ?>">
+<input type="hidden" name="tag" value="top-form">
+<input type="hidden" name="price" value="null">
+<input type="hidden" name="news" value="1">
+           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
                                 <div class="form-inputs">
-                                    <!-- <input type="hidden" name="page-name" class="pagename" value="about"> -->
+                                   
                                     <input type="text" name="name" placeholder="Your Name" required>
                                 </div>
                                 <div class="form-inputs">
                                     <input type="email" name="email" placeholder="Your Email" required>
                                 </div>
                                 <div class="form-inputs">
-                                    <input type="number" name="phone" placeholder="Your Phone" required>
+                                    <input type="number" name="phone" placeholder="Your Phone" required> 
                                 </div>
                                 <div class="form-inputs mb-0">
                                     <textarea type="text" name="brief" placeholder="Your Message"></textarea>
