@@ -243,29 +243,29 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="item-global-location">
-                            <!-- <img src="assets/about/usa.png">
+                            <img src="assets/about/usa.png">
                             <div class="text-global-location">
                                 <h4>USA OFFICE:</h4>
-                                <p>9115 FM 723 RD STE 550 RICHMOND, <br> TX 77406-9238, USA</p>
-                            </div> -->
+                                <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="item-global-location">
-                            <!-- <img src="assets/about/pak.png">
+                            <img src="assets/about/pak.png">
                             <div class="text-global-location">
                                 <h4>PAK OFFICE:</h4>
-                                <p>SUITE 102, HARYANI SQUARE, <br> PHASE-VI, DHA, KHI.</p>
-                            </div> -->
+                                <p>Roshan Trade Center office no 809 shaheed e millat rooad Karachi</p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="item-global-location">
-                            <!-- <img src="assets/about/uae.png">
+                            <img src="assets/about/uae.png">
                             <div class="text-global-location">
-                                <h4>UAE OFFICE:</h4>
-                                <p>36 D2, AJMAN FREE ZONE, <br> AJMAN UAE</p>
-                            </div> -->
+                                <h4>CA OFFICE:</h4>
+                                <p>5500 north service road unit 300 Burlington ON L7L 6W6 Canada</p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
@@ -273,7 +273,8 @@
                             <img src="assets/about/guangzhou.png">
                             <div class="text-global-location">
                                 <h4>OFFICE:</h4>
-                                <p>71-75, SHELTON STREET, COVENT GARDEN, LONDON, WC2H 9JQ, UNITED KINGDOM</p>
+                                <p>30 N, Gould St Ste 33899 , Sheridan, WY, United States, Wyoming
+Copyrig</p>
                             </div>
                         </div>
                     </div>
