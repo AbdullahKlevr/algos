@@ -112,19 +112,21 @@
                             <div class="inner-row-global-operation d-flex">
                                 <div class="global-col global-col-8">
                                     <h6>USa Office</h6>
-                                    <p>9115 FM 723 RD STE 550 RICHMOND,TX 77406-9238, USA.</p>
+                                    <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                                 </div>
                                 <div class="global-col global-col-2">
                                     <h6>PAK OFFICE:</h6>
-                                    <p>SUITE 102, HARYANI SQUARE, PHASE-VI, DHA, KHI.</p>
+                                    <p></p>
                                 </div>
                                 <div class="global-col global-col-3">
-                                    <h6>UAE OFFICE:</h6>
-                                    <p>36 D2, AJMAN FREE ZONE,AJMAN UAE.</p>
+                                    <h6>CA OFFICE:</h6>
+                                    <p>5500 north service road unit 300 Burlington ON L7L 6W6 Canada
+
+</p>
                                 </div>
                                 <div class="global-col global-col-4">
                                     <h6> OFFICE:</h6>
-                                    <p>71-75, SHELTON STREET, COVENT GARDEN, LONDON, WC2H 9JQ, UNITED KINGDOM</p>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
