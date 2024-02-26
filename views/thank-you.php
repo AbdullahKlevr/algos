@@ -126,58 +126,8 @@
                 </div>
             </section>
             
-            <section class="global-location-section mb-150">
-              <div class="container-1560">
-                <div class="row align-items-center mb-100">
-                    <div class="col-lg-4 col-md-4 col-sm-5">
-                        <h3 class="fa-80 font-weight-bold line-height-85">Global Operations</h3>
-                    </div>
-                    <div class="col-lg-8 col-md-8 col-sm-7">
-                        <div class="text-right image-globe">
-                            <img src="assets/about/worldmap.png">
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="item-global-location">
-                            <!-- <img src="assets/about/usa.png">
-                            <div class="text-global-location">
-                                <h4>Florida Office:</h4>
-                                <p>9115 FM 723 RD STE 550 RICHMOND, <br> TX 77406-9238, USA</p>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="item-global-location">
-                            <!-- <img src="assets/about/pak.png">
-                            <div class="text-global-location">
-                                <h4>Colorado Office:</h4>
-                                <p>SUITE 102, HARYANI SQUARE, <br> PHASE-VI, DHA, KHI.</p>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                        <div class="item-global-location">
-                            <img src="assets/about/uae.png">
-                            <div class="text-global-location">
-                                <h4>OFFICE:</h4>
-                                <p>71-75, SHELTON STREET, COVENT GARDEN, LONDON, WC2H 9JQ, UNITED KINGDOM</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="item-global-location">
-                            <!-- <img src="assets/about/guangzhou.png">
-                            <div class="text-global-location">
-                                <h4>GUANGZHOU OFFICE:</h4>
-                                <p>ROOM 3311, EAST TOWER, NO 122 TIYUDONG RD, <br> TIANHE DISTRICT, GUANGZHOU</p>
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+            <?php include_once("includes/footer.php") ?>
+
             
             
                 

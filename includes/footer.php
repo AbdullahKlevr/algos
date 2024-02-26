@@ -111,16 +111,16 @@
                             <h3 class="fa-50">Our Global Operations</h3>
                             <div class="inner-row-global-operation d-flex">
                                 <div class="global-col global-col-8">
-                                    <!-- <h6>USa Office</h6>
-                                    <p>9115 FM 723 RD STE 550 RICHMOND,TX 77406-9238, USA.</p> -->
+                                    <h6>USa Office</h6>
+                                    <p>9115 FM 723 RD STE 550 RICHMOND,TX 77406-9238, USA.</p>
                                 </div>
                                 <div class="global-col global-col-2">
-                                    <!-- <h6>PAK OFFICE:</h6>
-                                    <p>SUITE 102, HARYANI SQUARE, PHASE-VI, DHA, KHI.</p> -->
+                                    <h6>PAK OFFICE:</h6>
+                                    <p>SUITE 102, HARYANI SQUARE, PHASE-VI, DHA, KHI.</p>
                                 </div>
                                 <div class="global-col global-col-3">
-                                    <!-- <h6>UAE OFFICE:</h6>
-                                    <p>36 D2, AJMAN FREE ZONE,AJMAN UAE.</p> -->
+                                    <h6>UAE OFFICE:</h6>
+                                    <p>36 D2, AJMAN FREE ZONE,AJMAN UAE.</p>
                                 </div>
                                 <div class="global-col global-col-4">
                                     <h6> OFFICE:</h6>

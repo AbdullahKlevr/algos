@@ -4360,7 +4360,7 @@ body:after {
     margin-bottom: .833vw
 }
 .modal-logo img {
-    width: 10vw
+    width: 7vw
 }
 .modal-form .form-group input::-webkit-input-placeholder,
 .modal-form .form-group textarea::-webkit-input-placeholder {
@@ -6064,7 +6064,7 @@ body:after {
         font-size: 2.3vw
     }
     .modal-logo img {
-        width: 11vw
+        width: 7vw
     }
     .main-modal.modal.show .modal-dialog {
         max-width: 28vw
