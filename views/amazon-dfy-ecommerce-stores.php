@@ -431,7 +431,7 @@
 <input type="hidden" name="price" value="null">
 <input type="hidden" name="news" value="1">
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
-                                <input type="input" value="home">
+                                
                                 <div class="form-inputs">
                                     <input type="hidden" name="page-name" class="pagename" value="blog-blog1">
                                     <input type="text" name="name" placeholder="Your Name" required>
@@ -479,7 +479,7 @@
                             
                             <h3>Get A Free</h3>
                             <h2 class="service-head gradient-color">Consultancy</h2>
-                            <form class="modal-form "><input type="hidden" name="url" value='amazon-publishing.html'>
+                            <form class="modal-for "><input type="hidden" name="url" value='amazon-publishing.html'>
            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
 <input type="hidden" name="brand" value="ALGOSECOM">
 <input type="hidden" name="token" value="<?= $token; ?>">

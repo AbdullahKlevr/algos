@@ -562,7 +562,7 @@
 <input type="hidden" name="price" value="null">
 <input type="hidden" name="news" value="1">
            <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
-                                <input type="input" value="home">
+                                
                                 <div class="form-inputs">
                                     <input type="hidden" name="page-name" class="pagename" value="accountreinstatement">
                                     <input type="text" name="name" placeholder="Your Name" required>
