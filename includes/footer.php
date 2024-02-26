@@ -111,12 +111,12 @@
                             <h3 class="fa-50">Our Global Operations</h3>
                             <div class="inner-row-global-operation d-flex">
                                 <div class="global-col global-col-8">
-                                    <h6>USa Office</h6>
+                                    <h6>USA Office</h6>
                                     <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                                 </div>
                                 <div class="global-col global-col-2">
                                     <h6>PAK OFFICE:</h6>
-                                    <p></p>
+                                    <p>Roshan Trade Center office no 809 shaheed e millat rooad Karachi</p>
                                 </div>
                                 <div class="global-col global-col-3">
                                     <h6>CA OFFICE:</h6>
@@ -126,7 +126,7 @@
                                 </div>
                                 <div class="global-col global-col-4">
                                     <h6> OFFICE:</h6>
-                                    <p></p>
+                                    <p>30 N, Gould St Ste 33899 , Sheridan, WY, United States, Wyoming</p>
                                 </div>
                             </div>
                         </div>
