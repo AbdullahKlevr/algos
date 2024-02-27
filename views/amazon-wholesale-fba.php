@@ -499,19 +499,19 @@
                                 <div class="single-item-double-pricing">
                                     <div class="heading-list-single-package pricing-single-package">
                                         <h4>Profit Split: 60/40</h4>
-                                        <span>$6,000</span>
+                                        <span>$7499</span>
                                         <p>Billed Annually</p>
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                     </div>
                                     <div class="heading-list-single-package pricing-single-package">
-                                        <h4>Profit Split: 80/20</h4>
-                                        <span>$8,000</span>
+                                        <h4>Profit Split: 70/30</h4>
+                                        <span>$12,499</span>
                                         <p>Billed Annually</p>
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                     </div>
                                     <div class="heading-list-single-package pricing-single-package">
-                                        <h4>Profit 100%</h4>
-                                        <span>$10,000</span>
+                                        <h4>Profit 80/20</h4>
+                                        <span>$24,999</span>
                                         <p>Billed Annually</p>
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                     </div>

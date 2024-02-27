@@ -668,7 +668,7 @@
                                                 <li><i class="fa fa-times-circle"></i></li>
                                                 <li><i class="fa fa-times-circle"></i></li>
                                                 <li class="pricing-packages">
-                                                    <p class="same-font-sizing">$9,999/year</p>
+                                                    <p class="same-font-sizing">$12,999/year</p>
                                                 </li>
                                             </ul>
                                             <div class="packages-btn">
@@ -694,7 +694,7 @@
                                                 <li><i class="fa fa-check-circle"></i></li>
                                                 <li><i class="fa fa-check-circle"></i></li>
                                                 <li class="pricing-packages">
-                                                    <p class="same-font-sizing">$14,999/year</p>
+                                                    <p class="same-font-sizing">$19,999/year</p>
                                                 </li>
                                             </ul>
                                             <div class="packages-btn">

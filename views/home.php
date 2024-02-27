@@ -29,25 +29,29 @@
             
             <section class="bannerSecInnerPages overflow-hidden pt-header text-white section-full-height align-items-center bg-before-linear-gradient bg-image-overlay position-relative">
                 <div class="container-1560vw w-100 position-relative">
-                    <div class="row py-7vw">
-                        <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-6">
                             <div class="banner-text-vw text-center">
-                                <h1 class="fa-53vw">Get Your Own Fully Automated Ecom Store On Leading Marketplaces!</h1>
-                                <p class="fa-24vw">Start your online business on  Amazon, Facebook Marketplace, Shopify & Walmart by automating and integrating orders, shipping, and store management.</p>
+                                <h1 class="fa-53vw">Get Your Fully Customized<br> E-commerce Store on Leading Marketplaces!</h1>
+                                <p class="fa-24vw">Ready to kickstart your venture? Let us help you create your automated store on Amazon, Shopify, Facebook Marketplace, Walmart, and more!</p>
                                 <button class="btn-reg-vw" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
-                            <div class="image-banner-home-vw">
-                                <img class="small-image-vw top-left-vw" src="assets/home/homebanner-1.png" alt="algosecom">
-                                <img class="small-image-vw top-right-vw" src="assets/home/homebanner-2.png" alt="algosecom">
-                                <img class="small-image-vw bottom-left-vw" src="assets/home/homebanner-3.png" alt="algosecom">
-                                <img class="small-image-vw bottom-right-vw" src="assets/home/homebanner-4.png" alt="algosecom">
+</div>
+<div class="col-lg-6">
+    <img class="hero-lap" src="../assets/home/laptop.png" alt="">
+                            <!-- <div class="image-banner-home-vw">
+                                <img class="small-image-vw " src="assets/home/homebanner-1.png" alt="algosecom">
+                                <img class="small-image-vw " src="assets/home/homebanner-2.png" alt="algosecom">
+                                <img class="small-image-vw " src="assets/home/homebanner-3.png" alt="algosecom">
+                                <img class="small-image-vw " src="assets/home/homebanner-4.png" alt="algosecom">
+                            </div> -->
                             </div>
                         </div>
                     </div>
                 </div>
                 <a href="#sec2">
                     <div class="scroll-down-icon">
-                        <p>We Are Xpertz</p>
+                        <p>Scroll Down</p>
                         <i class="fas fa-long-arrow-down"></i>
                     </div>
                 </a>
@@ -65,6 +69,9 @@
                         <h3 class="fa-80 font-weight-bold">Our Easy <span class="gradient-color">Process</span></h3>
                     </div>
                     <div class="our-process-flex">
+                        <img class="info" src="../assets/home/info.png" alt="">
+</div>
+                    <!-- <div class="our-process-flex">
                         <div class="circle-columns">
                             <div class="position-relative image-right">
                                 <img alt="algosecom" src="assets/home/circleprocess.png">
@@ -105,7 +112,7 @@
                                 <span>04</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
             
@@ -127,7 +134,7 @@
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-8 ml-auto">
-                            <p class="color-grey fa-20 line-height-18 ff-montserrat width-settings-invest">Maximize your e-commerce potential with Algosecom. Our ecommerce experts help you navigate the online marketplace, making it a platform for growth and increased revenue. Our services for Amazon, Shopify, Facebook Marketplace, and Walmart are designed to streamline your sales process, optimize your product offerings, and give you a competitive edge. With low investment costs and limitless potential, e-commerce is a smart business move. Let us help you make the most of it.</p>
+                            <p class="color-grey fa-20 line-height-18 ff-montserrat width-settings-invest">Partnering with Algosecom for e-commerce passive income is hassle-free because our ecommerce marketing agency provides a done-for-you solution that follows a process we’ve been perfecting for over a decade. We create uniquely customized solutions for your business and your target audience. Our ecommerce experts will work with you one-on-one to create a strategy that compliments any online initiatives you may consider.</p>
                         </div>
                     </div>
                 </div>
@@ -153,8 +160,9 @@
             <section class="section-5 our-services">
                 <div class="container-1560">
                     <div class="text-width text-center">
-                        <h4 class="fa-80 font-weight-bold mb-4">Our eCommerce <span class="gradient-color">Services</span></h4>
-                        <p class="fa-16 max-w-900 line-height-170">Partnering with Algosecom for e-commerce passive income is hassle-free because our ecommerce marketing agency provides a done-for-you solution that follows a process we’ve been perfecting for over a decade. We create uniquely customized solutions for your business and your target audience. Our ecommerce experts will work with you one-on-one to create a strategy that compliments any online initiatives you may consider.</p>
+                        <h4 class="fa-80 font-weight-bold mb-4">What Our E-commerce Store Services <span class="gradient-color"> Include</span></h4>
+                        <p class="fa-16 max-w-900 line-height-170">Partnering with Algosecom for e-commerce is easy because our agency offers a complete solution that we've been perfecting for over ten years. We tailor unique solutions for your business and audience, working closely with you to develop strategies that enhance your online efforts.
+</p>
                     </div>
                     <div class="services-parent">
                         <div class="row">
@@ -211,6 +219,25 @@
                                     </div>
                                 </div>
                             </div>
+                            <!--Ecom Private Label-->
+                            <div class="col-lg-4 col-md-4 col-sm-6">
+                                <div class="service-box-parent">
+                                    <a class="absacnchor" href="ecom-private-label/"></a>
+                                    <span class="innerserrivedesign"></span>
+                                    <div class="service-box">
+                                        <h4>Ecom Private Label</h4>
+                                        <div class="image-atback">
+                                            <img alt="algosecom" src="assets/home/ecomm.webp">
+                                        </div>
+                                        <div class="learnmore">
+                                            <span>Know More</span>
+                                            <span>
+                                                <img alt="algosecom" src="assets/arrow-right.svg">
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <!--Facebook Marketplace-->
                             <div class="col-lg-4 col-md-4 col-sm-6 mx-auto">
                                 <div class="service-box-parent active-service-box">
@@ -245,37 +272,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Walmart Automation-->
-                            <div class="col-lg-4 col-md-4 col-sm-6 mx-auto">
-                                <div class="service-box-parent">
-                                    <a class="absacnchor" href="javascript:void(0)"></a>
-                                    <!--<span class="comingsoon">Coming Soon</span>-->
-                                    <span class="innerserrivedesign"></span>
-                                    <div class="service-box">
-                                        <h4>Walmart Automation</h4>
-                                        <img alt="algosecom" src="assets/home/walmartauto.png">
-                                        <div class="learnmore">
-                                            <span>Coming Soon</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Proxy Marketing-->
-                            <div class="col-lg-4 col-md-4 col-sm-6 mx-auto mr-sm-0">
-                                <div class="service-box-parent">
-                                    <a class="absacnchor" href="javascript:void(0)"></a>
-                                    <span class="innerserrivedesign"></span>
-                                    <div class="service-box">
-                                        <h4>Proxy Marketing</h4>
-                                        <img alt="algosecom" src="assets/home/proxy-marketing.png">
-                                        <div class="learnmore">
-                                            <span>Coming Soon</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Account Reinstatement-->
-                            <div class="col-lg-4 col-md-4 col-sm-6 ml-sm-0">
+                             <!--Account Reinstatement-->
+                             <div class="col-lg-4 col-md-4 col-sm-6 ml-sm-0">
                                 <div class="service-box-parent">
                                     <a class="absacnchor" href="account-reinstatement/"></a>
                                     <span class="innerserrivedesign"></span>
@@ -291,25 +289,37 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Ecom Private Label-->
-                            <div class="col-lg-4 col-md-4 col-sm-6">
+                            <!--Walmart Automation-->
+                            <div class="col-lg-4 col-md-4 col-sm-6 ml-sm-0">
                                 <div class="service-box-parent">
-                                    <a class="absacnchor" href="ecom-private-label/"></a>
+                                    <a class="absacnchor" href="javascript:void(0)"></a>
+                                    <!--<span class="comingsoon">Coming Soon</span>-->
                                     <span class="innerserrivedesign"></span>
                                     <div class="service-box">
-                                        <h4>Ecom Private Label</h4>
-                                        <div class="image-atback">
-                                            <img alt="algosecom" src="assets/home/ecomm.webp">
-                                        </div>
+                                        <h4>Walmart Automation</h4>
+                                        <img alt="algosecom" src="assets/home/walmartauto.png">
                                         <div class="learnmore">
-                                            <span>Know More</span>
-                                            <span>
-                                                <img alt="algosecom" src="assets/arrow-right.svg">
-                                            </span>
+                                            <span>Coming Soon</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <!--Proxy Marketing-->
+                            <div class="col-lg-4 col-md-4 col-sm-6 mx-auto ml-sm-0">
+                                <div class="service-box-parent">
+                                    <a class="absacnchor" href="javascript:void(0)"></a>
+                                    <span class="innerserrivedesign"></span>
+                                    <div class="service-box">
+                                        <h4>Proxy Marketing</h4>
+                                        <img alt="algosecom" src="assets/home/proxy-marketing.png">
+                                        <div class="learnmore">
+                                            <span>Coming Soon</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                            
                         </div>
                     </div>
                 </div>
@@ -321,8 +331,8 @@
             <section class="aspects bg-image-lines bg-images-right-bottom pb-200 position-relative py-100 section-6">
                 <div class="container-1560">
                     <div class="text-width-aspects">
-                        <h4 class="fa-80 font-weight-bold mb-4">Covering all <span class="gradient-color">Aspects</span></h4>
-                        <p class="fa-16fix line-height-18">Advising on business, technology, and operational aspects, Algosecom helps improve your operational efficiency and manage your customers’ entire experience with your company. We match your requirements and use it to the fullest and custom-build distinct features. Our ecommerce marketing agency strengthens its expertise in e-commerce store development with all automation to enable data exchange and connect separate systems. Within long-standing cooperation, an ecommerce agency monitor and scale the performance, efficiency, and profitability of your e-commerce platform and do troubleshooting work.</p>
+                        <h4 class="fa-80 font-weight-bold mb-4">We Cover All  <span class="gradient-color">Our Bases</span></h4>
+                        <p class="fa-16fix line-height-18">Our experienced team provides comprehensive guidance on business, technology, and operations, enhancing your operational efficiency and optimizing your customers' experience. We customize solutions to meet your needs, integrating distinct features and leveraging automation for seamless data exchange across systems. With our expertise in e-commerce store development, we monitor, scale, and troubleshoot your platform to ensure long-term success and profitability. Partner with us for reliable support in maximizing your e-commerce performance.</p>
                     </div>
                     <div class="row align-item-center">
                         <div class="col-lg-8 pl-additional">
@@ -383,8 +393,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our Customers 
+</span> Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients.</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -418,7 +429,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -469,7 +480,8 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. 
+</p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

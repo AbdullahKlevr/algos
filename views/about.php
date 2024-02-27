@@ -30,8 +30,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-7 col-sm-9">
                     <div class="banner-text-inner aboutus-banner-text">
-                        <h1 class="fa-70vw font-weight-bold">We do the hard work. <br><span class="color-yellow">You sit back & relax!</span></h1>
-                        <p class="fa-18vw max-w-660vw my-30vw">We'll handle all aspects of setting up and managing your <span class="d-inline-block">e-commerce</span> business, allowing you to sit back and relax while we take care of the details.</p>
+                        <h1 class="fa-70vw font-weight-bold">GET A FREE <br><span class="color-yellow">CONSULTATION</span></h1>
+                        <p class="fa-18vw max-w-660vw my-30vw">We cater to all your e-commerce business needs,<span class="d-inline-block">from setting it up to managing it.</span> business, allowing you to sit back and relax while we take care of the details.</p>
                         <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                     </div>
                 </div>
@@ -185,7 +185,7 @@
                 </div>
             </div>
             <div class="max-w-1250 mb-100">
-                <p class="fa-20 text-center">At algosecom, our philosophy is to help entrepreneurs and business owners build successful online stores with minimal hassle by providing them ecommerce outsourcing services. Our ecommerce consultant understands that running an e-commerce business can be challenging, especially when you're juggling multiple tasks at once. With the right tools and systems in place, you can streamline your business processes, reduce costs, and deliver an exceptional customer experience, that's why our ecom automation agency offers "Automation" e-commerce automation services. Our team of experts is dedicated to helping you launch and scale your online store with ease. An ecommerce services provider will handle all the technical details so you can focus on what matters most - growing your business and serving your customers.</p>
+                <p class="fa-20 text-center">At Algosecom, we aim to help business owners and entrepreneurs in building successful online stores. Through our e-commerce outsourcing services, we alleviate the challenges of managing multiple tasks simultaneously. Our e-commerce consultants recognize the complexities of running an e-commerce business, which is why we’re here to make it simple for you. With our expertise, we equip you with the necessary tools and systems to streamline processes, cut costs, and enhance customer experiences. Our expert team ensures a seamless launch and scalable growth of your online store, allowing you to focus on business growth and customer satisfaction while they handle the technical intricacies.</p>
             </div>
         </div>
     </section>
@@ -198,7 +198,7 @@
                     <div class="item-heritage after-heritage-arrow">
                         <span>2005 - 2016</span>
                         <h4>B2B Marketplace</h4>
-                        <p>Started off as one of the many B2B Marketplaces enabling companies to connect with other organizations and conduct business in one place, buying and selling products.</p>
+                        <p>We started off as part of the growing trend in facilitating business-to-business transactions. </p>
                         <span class="heritage-item-image">
                             <img src="assets/about/b2b.png">
                         </span>
@@ -208,7 +208,8 @@
                     <div class="item-heritage after-heritage-arrow black-heritage-bg">
                         <span>2017 - 2019</span>
                         <h4>Digital Agency</h4>
-                        <p>Adding another feather in the cap, moved on to serve as a digital agency to outsource your digital marketing efforts, with various digital solutions.</p>
+                        <p>We evolved into a digital agency, providing a comprehensive range of digital marketing solutions. 
+</p>
                         <span class="heritage-item-image orange-icon">
                             <img src="assets/about/digitalagency.png">
                         </span>
@@ -218,7 +219,7 @@
                     <div class="item-heritage">
                         <span>2020 - Onwards</span>
                         <h4>Ecom Automation</h4>
-                        <p>Reaching the heights, became the e-com automation provider, where we help entrepreneurs and business owners achieve success in the competitive world of e-commerce with our Done-For-You services.</p>
+                        <p>Continuing our growth trajectory, we have now transformed into an e-commerce automation provider. </p>
                         <span class="heritage-item-image">
                             <img src="assets/about/outsourcinghub.png">
                         </span>
@@ -245,7 +246,7 @@
                         <div class="item-global-location">
                             <img src="assets/about/usa.png">
                             <div class="text-global-location">
-                                <h4>USA OFFICE:</h4>
+                                <h4>HQ USA OFFICE:</h4>
                                 <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                             </div>
                         </div>
@@ -255,7 +256,7 @@
                             <img src="assets/about/pak.png">
                             <div class="text-global-location">
                                 <h4>PAK OFFICE:</h4>
-                                <p>Roshan Trade Center office no 809 shaheed e millat rooad Karachi</p>
+                                <p>Office # 809, 8th Floor, Roshan Trade Center, Main Shaheed-e-Millat Road, PECHS, Karachi.</p>
                             </div>
                         </div>
                     </div>
@@ -263,7 +264,7 @@
                         <div class="item-global-location">
                             <img src="assets/about/uae.png">
                             <div class="text-global-location">
-                                <h4>CA OFFICE:</h4>
+                                <h4>CANADAOFFICE:</h4>
                                 <p>5500 north service road unit 300 Burlington ON L7L 6W6 Canada</p>
                             </div>
                         </div>
@@ -290,8 +291,8 @@ Copyrig</p>
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our Customers</span>  Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients.</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -325,7 +326,7 @@ Copyrig</p>
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability.</p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -376,7 +377,7 @@ Copyrig</p>
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions.</p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

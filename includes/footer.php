@@ -7,8 +7,8 @@
                                 <img src="assets/HS_ALGOSECOM r1-04.png" alt="Algosecom">
                             </a>
                         </div>
-                        <h5 class="fa-50 font-weight-600 text-right w-50">We do the hard work.<br>
-                            <span class="color-yellow">You sit back & relax!</span>
+                        <h5 class="fa-50 font-weight-600 text-right w-50">We do the hard work<br>
+                            <span class="color-yellow">so you don’t have to! </span>
                         </h5>
                     </div>
                     
@@ -111,21 +111,21 @@
                             <h3 class="fa-50">Our Global Operations</h3>
                             <div class="inner-row-global-operation d-flex">
                                 <div class="global-col global-col-8">
-                                    <h6>USA Office</h6>
+                                    <h6>HQ USA Office:</h6>
                                     <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                                 </div>
                                 <div class="global-col global-col-2">
                                     <h6>PAK OFFICE:</h6>
-                                    <p>Roshan Trade Center office no 809 shaheed e millat rooad Karachi</p>
+                                    <p>Office # 809, 8th Floor, Roshan Trade Center, Main Shaheed-e-Millat Road, PECHS, Karachi.</p>
                                 </div>
                                 <div class="global-col global-col-3">
-                                    <h6>CA OFFICE:</h6>
+                                    <h6>CANADA OFFICE:</h6>
                                     <p>5500 north service road unit 300 Burlington ON L7L 6W6 Canada
 
 </p>
                                 </div>
                                 <div class="global-col global-col-4">
-                                    <h6> OFFICE:</h6>
+                                    <h6>USA OFFICE:</h6>
                                     <p>30 N, Gould St Ste 33899 , Sheridan, WY, United States, Wyoming</p>
                                 </div>
                             </div>

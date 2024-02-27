@@ -298,7 +298,7 @@
                             <div class="col-lg-3">
                                 <div class="heading-list-single-package pricing-single-package">
                                     <h3>Price:</h3>
-                                    <span>$4,999</span>
+                                    <span>$5999</span>
                                     <i class="d-none">Shopify Dropshipping</i>
                                     <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                 </div>

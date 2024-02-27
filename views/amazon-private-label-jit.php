@@ -203,7 +203,7 @@
                                         <li>Shopify Store Setup.</li>
                                     </ul>
                                     <div class="d-flex align-items-center price-jit">
-                                        <h2>$999</h2>
+                                        <h2>$1499</h2>
                                         <p>One-Time</p>
                                     </div>
                                     <button class="btn-jit-services" data-bs-toggle="modal" data-bs-target="#singupmodal">

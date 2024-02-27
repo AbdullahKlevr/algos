@@ -88,7 +88,7 @@
                                     <p>As a product research virtual assistant, we help businesses and individuals identify and evaluate potential products to purchase and sell. This involves researching product features, prices, and availability, as well as analyzing market trends and comparing different products to understand their specific needs and goals. We use different resources to gather the information needed to make informed decisions about products.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
-                                        <span class="price">$899/month</span>
+                                        <span class="price">$999/month</span>
                                     </div>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                                     <p>Hire Amazon virtual assistant for product-sourcing, which helps you locate and purchase the products you need. We identify and research potential suppliers, negotiate prices and terms, list products on your account, and catering orders on your behalf. We work closely with you to understand your specific product preferences and needs and use our knowledge of the market to locate the best products at the most competitive prices.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
-                                        <span class="price">$899/month</span>
+                                        <span class="price">$999/month</span>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                     <p>As a virtual assistant for amazon fba, it is our responsibility to help you track and manage your orders and inventory. This involves processing orders, updating inventory levels, and reconciling stock counts. Firstly, we will understand your specific inventory needs and processes and use a variety of tools and systems to accurately track and manage orders and inventory.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
-                                        <span class="price">$799/month</span>
+                                        <span class="price">$999/month</span>
                                     </div>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                                     <p>Our amazon fba virtual assistant will take care of every setup-related issue and manage your overall account. Our e-commerce experts have mastered the art of done-for-you service automation and managing your account in a manner that requires zero to no attention at your end and helps you succeed in attaining maximum sales, high customer traffic, and multiple profit margins.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
-                                        <span class="price">$799/month</span>
+                                        <span class="price">$999/month</span>
                                     </div>
                                 </div>
                             </div>

@@ -33,7 +33,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-8 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-90vw font-weight-bold">Contact <span class="color-yellow">Us</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">Looking to launch a new project or update an existing one? Let us guide you through the process and help you achieve your business goals</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">Are you looking to start an e-commerce store or upgrade your existing one? Let us make it easy for you!  </p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -64,13 +64,13 @@
                     <div class="row mt-100">
                         <div class="col-lg-6 col-md-6">
                             <div class="text-contact-page">
-                                <h6>Ask how we can help you:</h6>
-                                <p>We are committed to helping you establish or enhance your e-commerce platform, from the initial consultation and strategy development to implementation and ongoing support, just a simple email away.</p>
+                                <h6>Find Out How We Can Help:</h6>
+                                <p>We're dedicated to supporting you in building or refining your e-commerce platform every step of the way. We're just an email away from the first consultation and strategy planning to implementation and continuous support.</p>
                             </div>
                             
                             <div class="text-contact-page">
-                                <h6>See your platform in action:</h6>
-                                <p>We invite you to review our case studies and request samples of our work to assure yourself of our commitment to delivering high-quality content that drives maximum sales.</p>
+                                <h6>Get Results, Not Excuses:</h6>
+                                <p>We welcome you to explore our case studies and request samples of our work. This will help you see firsthand our dedication to delivering top-notch content that drives maximum sales.</p>
                             </div>
                             
                             <div class="points-of-contact">
@@ -126,7 +126,7 @@
                 </div>
             </section>
             
-            <?php include_once("includes/footer.php") ?>
+            
 
             
             
