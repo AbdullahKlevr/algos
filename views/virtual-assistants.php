@@ -31,7 +31,7 @@
                         <div class="col-lg-5 col-md-6 col-sm-6 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-90vw font-weight-bold line-height-95vw">Virtual <br><span class="gradient-color">Assistant</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">Work smarter, not harder in lesser time - hire a virtual assistant and focus on your core business activities.</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">Work smart, not hard! Hire a virtual assistant and free up your time to focus more on other critical activities. </p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -62,8 +62,8 @@
                         <div class="row">
                             <div class="col-lg-12 ml-auto">
                                 <div class="text-resposibility">
-                                    <h3 class="fa-60 mb-4 font-weight-bold">Responsibility of <br> <span class="gradient-color"> Virtual Assistant </span></h3>
-                                    <p class="fa-15">As an Amazon virtual assistant, it is our utmost responsibility to assist you with a wide range of tasks that can be completed remotely. This includes product research, product sourcing, Amazon PPC campaign, order and inventory management, and seller central management. We make sure you get high-quality support from us.</p>
+                                    <h3 class="fa-60 mb-4 font-weight-bold">How a Virtual Assistant <br> <span class="gradient-color"> Can Help </span></h3>
+                                    <p class="fa-15">As an Amazon virtual assistant, our top priority is to support you with various tasks that can be completed remotely. This encompasses product research, sourcing, Amazon PPC campaign management, order and inventory management, and seller central management. We're committed to delivering high-quality assistance to ensure your success.</p>
                                 </div>
                             </div>
                         </div>
@@ -84,8 +84,8 @@
                             </div>
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
-                                    <h3 class="no-before line-height-48">Product <br><span class="gradient-color">Research VA</span></h3>
-                                    <p>As a product research virtual assistant, we help businesses and individuals identify and evaluate potential products to purchase and sell. This involves researching product features, prices, and availability, as well as analyzing market trends and comparing different products to understand their specific needs and goals. We use different resources to gather the information needed to make informed decisions about products.</p>
+                                    <h3 class="no-before line-height-48">Product <br><span class="gradient-color">Research Virtual Assistant</span></h3>
+                                    <p>As a product research virtual assistant, we aid businesses and individuals in identifying and evaluating potential products for purchase and sale. Our tasks include researching product features, prices, and availability, analyzing market trends, and comparing different products to align with their needs and goals. We utilize various resources to gather the necessary information for making informed decisions about products.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                         <span class="price">$999/month</span>
@@ -106,8 +106,8 @@
                             </div>
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
-                                    <h3 class="no-before line-height-48">Product <br><span class="gradient-color">Sourcing VA</span></h3>
-                                    <p>Hire Amazon virtual assistant for product-sourcing, which helps you locate and purchase the products you need. We identify and research potential suppliers, negotiate prices and terms, list products on your account, and catering orders on your behalf. We work closely with you to understand your specific product preferences and needs and use our knowledge of the market to locate the best products at the most competitive prices.</p>
+                                    <h3 class="no-before line-height-48">Product <br><span class="gradient-color">Sourcing Virtual Assistant</span></h3>
+                                    <p>Our Amazon virtual assistants are experts at product sourcing. They can help locate and purchase the products you require. We specialize in identifying and researching potential suppliers, negotiating prices and terms, listing products on your account, and fulfilling orders on your behalf. Working closely with you, we grasp your product preferences and needs, leveraging our market knowledge to find the best products at competitive prices.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                         <span class="price">$999/month</span>
@@ -128,8 +128,8 @@
                             </div>
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
-                                    <h3 class="no-before line-height-48">Amazon<br><span class="gradient-color"> PPC VA</span></h3>
-                                    <p>As an Amazon ppc virtual assistant, it is our responsibility to help you effectively advertise your products on Amazon. This involves creating and managing pay-per-click (PPC) campaigns, analyzing data and performance metrics, and making ongoing optimizations to improve the effectiveness of the campaigns. We understand your advertising goals and target audience and use different strategies to create and manage effective PPC campaigns.</p>
+                                    <h3 class="no-before line-height-48">Amazon<br><span class="gradient-color"> PPC Virtual Assistant</span></h3>
+                                    <p>As an Amazon PPC virtual assistant, we assist you in effectively advertising your products on Amazon. This entails creating and managing pay-per-click (PPC) campaigns, analyzing data and performance metrics, and continuously optimizing campaigns to enhance effectiveness. We comprehend your advertising objectives and target audience, employing various strategies to develop and manage impactful PPC campaigns.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                         <span class="price">$999/month</span>
@@ -150,8 +150,8 @@
                             </div>
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
-                                    <h3 class="no-before line-height-48">Order & Inventory<br><span class="gradient-color"> Management VA </span></h3>
-                                    <p>As a virtual assistant for amazon fba, it is our responsibility to help you track and manage your orders and inventory. This involves processing orders, updating inventory levels, and reconciling stock counts. Firstly, we will understand your specific inventory needs and processes and use a variety of tools and systems to accurately track and manage orders and inventory.</p>
+                                    <h3 class="no-before line-height-48">Order & Inventory<br><span class="gradient-color"> Management Virtual Assistant</span></h3>
+                                    <p>As virtual assistants for Amazon FBA, we assist you in tracking and managing your orders and inventory efficiently. This includes processing orders, updating inventory levels, and reconciling stock counts. Initially, we'll grasp your unique inventory requirements and processes, utilizing a range of tools and systems to accurately track and manage orders and inventory.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                         <span class="price">$999/month</span>
@@ -172,8 +172,9 @@
                             </div>
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
-                                    <h3 class="no-before line-height-48">Seller Central<br><span class="gradient-color"> Management VA</span></h3>
-                                    <p>Our amazon fba virtual assistant will take care of every setup-related issue and manage your overall account. Our e-commerce experts have mastered the art of done-for-you service automation and managing your account in a manner that requires zero to no attention at your end and helps you succeed in attaining maximum sales, high customer traffic, and multiple profit margins.</p>
+                                    <h3 class="no-before line-height-48">Seller Central<br><span class="gradient-color"> Management Virtual Assistant</span></h3>
+                                    <p>Our Amazon FBA virtual assistant handles all setup-related issues and oversees your account. With our e-commerce experts skilled in automated, done-for-you service and account management, you can rest assured that minimal attention is required from your end. This approach ensures your success in achieving maximum sales, high customer traffic, and multiple profit margins.
+</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                                         <span class="price">$999/month</span>
@@ -277,8 +278,8 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our </span> Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. </p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -312,7 +313,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -363,7 +364,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

@@ -32,7 +32,7 @@
                         <div class="col-lg-6 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-75vw font-weight-bold line-height-85vw">Amazon <br><span class="gradient-color">Wholesale FBA</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">We will conduct thorough market research about wholesale selling on Amazon and find different wholesalers or manufacturers to identify profitable products, and then use our expertise to list and sell them on Amazon, helping you to maximize your sales and profits on the platform.</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">We perform in-depth market research on wholesale selling via Amazon, identifying profitable products from various wholesalers or manufacturers. Leveraging our expertise, we list and sell these products on Amazon, aiming to optimize your sales and profits on the platform.</p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
     <div class="container-1560">
         <div class="row py-100">
             <div class="col-lg-6 col-md-6">
-                <h3 class="fa-100 font-weight-bold line-height-85 text-center text-md-left">How We <span class="gradient-color">Do It</span></h3>
+                <h3 class="fa-100 font-weight-bold line-height-85 text-center text-md-left">Our  <span class="gradient-color">Process </span></h3>
             </div>
             <div class="col-lg-6 col-md-6 after-line position-relative">
                 <div class="image-settings-icon hwdi-image">
@@ -83,7 +83,7 @@
                     <div class="arrow-bg-clip">
                         <h4>Planning</h4>
                     </div>
-                    <p>Our problem-solvers plan and implement logical components in a coherent e-commerce solution.</p>
+                    <p>Our problem-solving experts strategize and execute logical components to create a cohesive e-commerce solution.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -92,7 +92,7 @@
                     <div class="arrow-bg-clip bg-black">
                         <h4>Research</h4>
                     </div>
-                    <p>Identifying profitable and in-demand products through research for exceptional results and increased sales.</p>
+                    <p>We identify profitable and high-demand products through thorough research, producing exceptional outcomes and sales.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -101,7 +101,7 @@
                     <div class="arrow-bg-clip">
                         <h4>Optimization</h4>
                     </div>
-                    <p>We will optimize your marketplace for conversions and maximize product visibility to drive sales.</p>
+                    <p>We'll fine-tune your marketplace to boost conversions and enhance product visibility, driving sales to new heights.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -110,7 +110,7 @@
                     <div class="arrow-bg-clip bg-black">
                         <h4>Results</h4>
                     </div>
-                    <p>We are committed to delivering measurable results that drive maximum sales for your business.</p>
+                    <p>Our commitment lies in delivering tangible results that lead to maximum sales growth for your business.</p>
                 </div>
             </div>
         </div>
@@ -121,14 +121,14 @@
     <div class="container-1560">
         <div class="philosophy-main position-relative">
             <div class="philosophy-text philosophy-text-home image-layer bg-layer-overlay">
-            <h4 class="fa-70 font-weight-bold text-white">What’s in it for you ?</h4>
+            <h4 class="fa-70 font-weight-bold text-white">What Must You Expect?</h4>
             <div class="image-mouse">
                 <img src="assets/services/facebookmarketplace/scrolldown.gif">
             </div>
         </div>
         </div>
         <div class="max-w-1150 mb-100">
-            <p class="fa-18 text-center">We will maximize profits on your Amazon store by sourcing and listing high-demand products and making them available for customers.</p>
+            <p class="fa-18 text-center">We'll boost profits on your Amazon store by sourcing and listing high-demand products, ensuring they're readily available for customers to purchase.</p>
         </div>
     </div>
 </section>
@@ -162,7 +162,7 @@
                                 
                                 <div class="arbitrage-text">
                                     <h2 class="fa-70 font-weight-bold line-height-70">Amazon <br><span class="gradient-color">Wholesale</span></h2>
-                                    <p class="fa-18 ff-montserrat">We will conduct thorough market research and find different wholesalers or manufacturers  to identify profitable products, and then use our expertise to list and sell them on Amazon, helping you to maximise your sales and profits on the platform.</p>
+                                    <p class="fa-18 ff-montserrat">We perform comprehensive market research to locate various wholesalers or manufacturers and identify profitable products. Leveraging our expertise, we list and sell these items on Amazon, aiding you in maximizing your sales and profits on the platform.</p>
                                 </div>
                                 <div class="arbitrage-image">
                                     <img src="assets/services/amazonfbaautomation/amazonwholesale.png">
@@ -194,7 +194,7 @@
                                 
                                 <div class="arbitrage-text">
                                     <h2 class="fa-70 font-weight-bold line-height-70">Online <br><span class="gradient-color">Arbitrage</span></h2>
-                                    <p class="fa-18 ff-montserrat">We source products from online retailers and then resell those products on Amazon for a higher price. The goal of wholesale for Amazon fba is to find products that are being sold at a lower price on other websites and then resell them on Amazon for a profit.</p>
+                                    <p class="fa-18 ff-montserrat">We procure products from online retailers and subsequently resell them on Amazon at a higher price. Our aim in wholesale for Amazon FBA is to locate items sold at a lower price on other websites and resell them on Amazon, generating a profit.</p>
                                 </div>
                                 <div class="arbitrage-image">
                                     <img src="assets/services/amazonfbaautomation/onlinearbitrage.png">
@@ -218,7 +218,7 @@
                         <div class="col-lg-6 m col-md-7">
                             <div class="max-w-700 ml-auto text-container-text">
                                 <h3 class="no-before">Brand <span class="gradient-color">Hunting</span></h3>
-                                <p>Brand hunting involves gathering and analyzing data on target audiences and their purchasing habits to determine how to effectively serve them, identify the ideal product and pricing strategy and wholesale products to sell on Amazon for your business, and in the whole process of selling wholesale on amazon we make sure to find a reliable supplier to fulfill our sourcing needs.</p>
+                                <p>Brand hunting entails collecting and analyzing data on target audiences and their purchasing behaviors. This helps us effectively serve them, identify the ideal product and pricing strategy, and select wholesale products to sell on Amazon for your business. Throughout the Amazon wholesale process, we prioritize finding a reliable supplier to fulfill our sourcing needs.</p>
                             </div>
                         </div>
                     </div>
@@ -236,7 +236,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-700 mr-auto text-container-text text-right">
                                     <h3 class="no-before">Product <span class="gradient-color">Listing</span></h3>
-                                    <p>Our Amazon wholesale fba experts will research and select the best keywords, write compelling product descriptions, and create stunning images to make your listing stand out. We'll ensure your listing appears to the right audience at the best price, keeping your product at the top for maximum conversions.</p>
+                                    <p>Our Amazon wholesale FBA experts meticulously research and choose the most effective keywords, craft compelling product descriptions, and design captivating images to elevate your listing above the competition. We'll optimize your listing to reach the right audience at the optimal price, ensuring your product remains at the forefront for maximum conversions.</p>
                                 </div>
                             </div>
                         </div>
@@ -254,7 +254,7 @@
                         <div class="col-lg-6 m col-md-7">
                             <div class="max-w-700 ml-auto text-container-text">
                                 <h3 class="no-before">Order <span class="gradient-color">Management</span></h3>
-                                <p>Our Amazon done-for-you services handle all aspects of product ordering, inventory management, and documentation to ensure the smooth delivery of products to your customers. Ensuring that they are properly stored and tracked. We also handle any customer service inquiries and returns related to the products. Our goal is to make the process of Amazon fba automation as seamless and efficient as possible for you, so we can focus on growing your business.</p>
+                                <p>Our Amazon done-for-you services encompass all facets of product ordering, inventory management, and documentation to facilitate seamless product delivery to your customers. We ensure proper storage and scrupulous tracking to guarantee accuracy. Additionally, we manage all customer service inquiries and product returns, striving to streamline the Amazon FBA automation process for you. </p>
                             </div>
                         </div>
                     </div>
@@ -273,7 +273,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-700 mr-auto text-container-text text-right">
                                     <h3 class="no-before">Account <span class="gradient-color">Management</span></h3>
-                                    <p>Whether it is the sourcing of products or listing items, taking care of any setup-related issues, or even managing your Amazon store, we manage to sell wholesale on Amazon from scratch. Our e-commerce experts have mastered the art of done-for-you Amazon fba automation services and manage your account in a manner that requires zero to no attention at your end, even after you have succeeded in attaining maximum sales, high customer traffic, and multiple profit margins.</p>
+                                    <p>From product sourcing to listing and handling setup-related matters and even managing your Amazon store, we handle every aspect of wholesale selling on Amazon from start to finish. Our team of e-commerce experts excels in providing done-for-you Amazon FBA automation services, ensuring your account operates seamlessly with minimal attention required from your end. Even after achieving maximum sales, high customer traffic, and multiple profit margins, we continue to manage your account effectively, allowing you to focus on other aspects of your business.</p>
                                 </div>
                             </div>
                         </div>
@@ -307,8 +307,9 @@
             <section class="py-100 packages-we-have position-relative">
                 <span class="gradient-settings-packages gradient-before-image"></span>
                 <div class="container-1560 text-center">
-                    <h3 class="fa-60 font-weight-bold">Packages <span class="gradient-color">We Have</span></h3>
-                    <p class="fa-18 max-w-1150 my-30">We offer cost-effective packages tailored to your needs, making it easy to manage your e-commerce platform and achieve maximum sales, high customer traffic, and multiple profit margins by selling wholesale on Amazon. </p>
+                    <h3 class="fa-60 font-weight-bold">Our Amazon Wholesale  <span class="gradient-color">FBA Packages</span></h3>
+                    <p class="fa-18 max-w-1150 my-30">We offer budget-friendly packages customized to your requirements, simplifying the management of your e-commerce platform. 
+ </p>
                 </div>
                 <div class="container-1560">
                     <!--<div class="packages-row">-->
@@ -537,8 +538,10 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our 
+</span> Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. 
+</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -572,7 +575,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -623,7 +626,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

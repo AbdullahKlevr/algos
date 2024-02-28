@@ -31,7 +31,7 @@
                         <div class="col-lg-6 col-md-7 col-sm-8 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-80vw font-weight-bold line-height-85vw">Facebook <br><span class="gradient-color">Marketplace</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">Use Facebook Marketplace to find nearby buyers and sellers and maximize the potential of selling on Facebook Marketplace through our Facebook marketplace services.</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">Looking to use Facebook Marketplace to find nearby buyers and sellers? We can help maximize the potential of selling on the platform through our comprehensive Facebook marketplace services.</p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
     <div class="container-1560">
         <div class="row py-100">
             <div class="col-lg-6 col-md-6">
-                <h3 class="fa-100 font-weight-bold line-height-85 text-center text-md-left">How We <span class="gradient-color">Do It</span></h3>
+                <h3 class="fa-100 font-weight-bold line-height-85 text-center text-md-left">Our <span class="gradient-color">Process </span></h3>
             </div>
             <div class="col-lg-6 col-md-6 after-line position-relative">
                 <div class="image-settings-icon hwdi-image">
@@ -72,7 +72,7 @@
                     <div class="arrow-bg-clip">
                         <h4>Planning</h4>
                     </div>
-                    <p>Our problem-solvers plan and implement logical components in a coherent e-commerce solution.</p>
+                    <p>Our problem-solving experts strategize and execute logical components to create a cohesive e-commerce solution.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -81,7 +81,7 @@
                     <div class="arrow-bg-clip bg-black">
                         <h4>Research</h4>
                     </div>
-                    <p>Identifying profitable and in-demand products through research for exceptional results and increased sales.</p>
+                    <p>We identify profitable and high-demand products through thorough research, producing exceptional outcomes and sales.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -90,7 +90,7 @@
                     <div class="arrow-bg-clip">
                         <h4>Optimization</h4>
                     </div>
-                    <p>We will optimize your marketplace for conversions and maximize product visibility to drive sales.</p>
+                    <p>We'll fine-tune your marketplace to boost conversions and enhance product visibility, driving sales to new heights.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -99,7 +99,7 @@
                     <div class="arrow-bg-clip bg-black">
                         <h4>Results</h4>
                     </div>
-                    <p>We are committed to delivering measurable results that drive maximum sales for your business.</p>
+                    <p>Our commitment lies in delivering tangible results that lead to maximum sales growth for your business.</p>
                 </div>
             </div>
         </div>
@@ -110,14 +110,14 @@
     <div class="container-1560">
         <div class="philosophy-main position-relative">
             <div class="philosophy-text philosophy-text-home image-layer bg-layer-overlay">
-            <h4 class="fa-70 font-weight-bold text-white">What’s in it for you ?</h4>
+            <h4 class="fa-70 font-weight-bold text-white">What Must You Expect?</h4>
             <div class="image-mouse">
                 <img src="assets/services/facebookmarketplace/scrolldown.gif">
             </div>
         </div>
         </div>
         <div class="max-w-1150 mb-100">
-            <p class="fa-18 text-center">Whether you want to sell any of your own products or you wish to dropship something, we will put it up on the Facebook Marketplace for potential buyers.</p>
+            <p class="fa-18 text-center">Whether you're selling your own products or dropshipping items, we'll showcase them on the Facebook Marketplace to attract potential buyers.</p>
         </div>
     </div>
 </section>
@@ -140,7 +140,7 @@
                         <div class="col-lg-6 m col-md-7">
                             <div class="max-w-700 ml-auto text-container-text">
                                 <h3>Product Hunting</h3>
-                                <p>We know exactly the products you should sell on the Facebook marketplace. We have all the categories according to your passion, expertise, or niche, and ensure that we make the hunting of the products, the research process, and anything related to product-hunting extremely relevant.</p>
+                                <p>We have a keen understanding of the products best suited for selling on the Facebook Marketplace. With categories tailored to your passion, expertise, or niche, we ensure that our product-hunting process is highly relevant and thorough, making it easier for you to find the perfect items to sell.</p>
                             </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-700 mr-auto text-container-text text-right">
                                     <h3>Product Listing</h3>
-                                    <p>Facebook Marketplace automation service is the easiest way to sell your products, however, it is very important to post the right product for the right audience to maximize your sales. Here’s where our Facebook marketplace management services make things easier for you. We will find different retailers and list your products on your Marketplace, bridging the gap and making it easier for you.</p>
+                                    <p>While Facebook Marketplace automation is a convenient way to sell your products, it's crucial to post the right products for the right audience to maximize sales. This is where our Facebook Marketplace management services come in. We'll source from various retailers and list your products on your Marketplace, bridging the gap and simplifying the process for you.</p>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +176,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-700 ml-auto text-container-text">
                                 <h3>Marketing Strategy / <br> Planning</h3>
-                                <p>We strategize and execute long-lasting methods and best practices for your products to make them top of mind and, as a result, convert them into sales. Our Facebook marketplace services help you optimize your products on the most appropriate keywords to improve organic reach and conversions.</p>
+                                <p>We develop and implement enduring methods and best practices for your products to ensure they remain top-of-mind and convert into sales. Our Facebook Marketplace services assist you in optimizing your products with the most relevant keywords to enhance organic reach and drive conversions.</p>
                             </div>
                         </div>
                     </div>
@@ -195,7 +195,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-700 mr-auto text-container-text text-right">
                                     <h3>Product Boosting</h3>
-                                    <p>When it comes to paid marketing we make sure to optimize the listings and products with the required bid to utilize your every penny and make sure to improve your Facebook marketplace selling that your ad shows to the most interested audience and is on top of all sponsored results.</p>
+                                    <p>In paid marketing, we meticulously optimize listings and products with the necessary bid to make the most of your investment. We ensure that your ad targets the most interested audience and appears at the top of all sponsored results, enhancing your Facebook Marketplace selling efforts.</p>
                                 </div>
                             </div>
                     </div>
@@ -214,7 +214,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-700 ml-auto text-container-text">
                                 <h3>Order Fulfilment</h3>
-                                <p>Once product hunting and listing for your Facebook Marketplace are done, we dig into the meat of your dropshipping business. Our fb marketplace dropshipping services include setting up your payment processor, finding and ordering the inventory of products we need to sell, and compiling all of the documentation and any complementary aspects to fulfill order requirements so products can reach your customer in the right manner.</p>
+                                <p>After completing product hunting and listing for your Facebook Marketplace, we delve into the core of your dropshipping business. Our Facebook Marketplace dropshipping services encompass setting up your payment processor, sourcing and ordering the inventory of products needed for sale, and compiling all necessary documentation and complementary aspects to fulfill order requirements. This ensures products reach your customers in the correct manner.</p>
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-700 mr-auto text-container-text text-right">
                                     <h3>Account Management</h3>
-                                    <p>You don’t need to worry about how Facebook marketplace work because, whether it is the sourcing of products or listing items, taking care of any setup-related issues, or even account management of your Facebook Marketplace platform. We manage it all. Our e-commerce experts have mastered the art of done-for-you service automation and managing your account in a manner that requires zero to no attention at your end, even after you have succeeded in attaining maximum sales, high customer traffic, and multiple profit margins.</p>
+                                    <p>You can rest assured that Facebook Marketplace works because we handle everything. From sourcing products to listing items, addressing setup-related issues, and managing your Facebook Marketplace platform account, we take care of it all. Our e-commerce experts excel in automated, done-for-you service and account management, requiring minimal attention from you even after achieving maximum sales, high customer traffic, and multiple profit margins.</p>
                                 </div>
                             </div>
                         </div>
@@ -245,8 +245,8 @@
             <section class="py-100 packages-we-have position-relative">
                 <span class="gradient-settings-packages gradient-before-image"></span>
                 <div class="container-1560 text-center">
-                    <h3 class="fa-60 font-weight-bold">Packages <span class="gradient-color">We Have</span></h3>
-                    <p class="fa-18 max-w-1150 my-30">We offer a cost-effective package tailored to your needs, making it easy to manage your Facebook marketplace services and achieve maximum sales, high customer traffic, and multiple profit margins.</p>
+                    <h3 class="fa-60 font-weight-bold">Our Facebook Marketplace <span class="gradient-color">Packages</span></h3>
+                    <p class="fa-18 max-w-1150 my-30">We offer budget-friendly packages customized to your requirements, simplifying the management of your Facebook marketplace services.  </p>
                 </div>
                 <div class="container-1560">
                     <div class="package-single-main-parent">
@@ -314,8 +314,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our </span> Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. 
+</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -349,7 +350,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -400,7 +401,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

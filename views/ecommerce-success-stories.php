@@ -32,8 +32,8 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-7 col-sm-8 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
-                                <h1 class="fa-70vw font-weight-bold">Ecommerce Success <span class="color-yellow">Stories</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">We have many case studies that demonstrate our success in delivering results for our clients. These ecommerce success stories showcase our expertise.</p>
+                                <h1 class="fa-70vw font-weight-bold">Our E-commerce  Success <span class="color-yellow">Stories</span></h1>
+                                <p class="fa-18vw max-w-600vw my-30vw">Check out our case studies that illustrate our track record of achieving results for our clients. They act as a clear demonstration of our expertise in the field.</p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, boosting their sales and improving their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -231,7 +231,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

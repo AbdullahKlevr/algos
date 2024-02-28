@@ -12,13 +12,13 @@
         <!-- End Google Tag Manager (noscript) -->
         
         <main>
-            <!-- <div class="loader">
+            <div class="loader">
                 <span class="loaderbefore"></span>
                 <div class="d-inline-block banner-img ">
                     
                     <img class="arrow-fill fill" src="assets/HS_ALGOSECOM r1-05.png" alt="Algosecom">
                 </div>
-            </div>  -->
+            </div> 
             
             <?php include_once("includes/header.php") ?>
                 
