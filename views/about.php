@@ -129,6 +129,9 @@
                         <h3 class="fa-80 font-weight-bold">Our Easy <span class="gradient-color">Process</span></h3>
                     </div>
                     <div class="our-process-flex">
+                        <img class="info" src="../assets/home/info.png" alt="">
+</div>
+                    <!-- <div class="our-process-flex">
                         <div class="circle-columns">
                             <div class="position-relative image-right">
                                 <img alt="algosecom" src="assets/home/circleprocess.png">
@@ -169,7 +172,7 @@
                                 <span>04</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
     
@@ -246,7 +249,7 @@
                         <div class="item-global-location">
                             <img src="assets/about/usa.png">
                             <div class="text-global-location">
-                                <h4>HQ USA OFFICE:</h4>
+                                <h4>USA OFFICE 1 (HQ):</h4>
                                 <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                             </div>
                         </div>
@@ -264,7 +267,7 @@
                         <div class="item-global-location">
                             <img src="assets/about/uae.png">
                             <div class="text-global-location">
-                                <h4>CANADAOFFICE:</h4>
+                                <h4>CANADA OFFICE:</h4>
                                 <p>5500 north service road unit 300 Burlington ON L7L 6W6 Canada</p>
                             </div>
                         </div>
@@ -273,7 +276,7 @@
                         <div class="item-global-location">
                             <img src="assets/about/guangzhou.png">
                             <div class="text-global-location">
-                                <h4>OFFICE:</h4>
+                                <h4>USA OFFICE 2:</h4>
                                 <p>30 N, Gould St Ste 33899 , Sheridan, WY, United States, Wyoming
 Copyrig</p>
                             </div>

@@ -111,7 +111,7 @@
                             <h3 class="fa-50">Our Global Operations</h3>
                             <div class="inner-row-global-operation d-flex">
                                 <div class="global-col global-col-8">
-                                    <h6>HQ USA Office:</h6>
+                                    <h6>USA OFFICE 1 (HQ):</h6>
                                     <p>7901 4th St N Ste 301, St. Petersburg, FL 33702, United States</p>
                                 </div>
                                 <div class="global-col global-col-2">
@@ -125,7 +125,7 @@
 </p>
                                 </div>
                                 <div class="global-col global-col-4">
-                                    <h6>USA OFFICE:</h6>
+                                    <h6>USA OFFICE 2:</h6>
                                     <p>30 N, Gould St Ste 33899 , Sheridan, WY, United States, Wyoming</p>
                                 </div>
                             </div>
