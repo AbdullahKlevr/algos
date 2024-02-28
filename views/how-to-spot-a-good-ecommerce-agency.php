@@ -337,25 +337,25 @@
                 </div>
                 <div class="slider-mobile">
                     <div class="item-image">
-                        <img src="assets/home/sliderimage01.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage01.webp" alt="Algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage02.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage02.webp" alt="Algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage03.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage03.webp" alt="Algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage04.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage04.webp" alt="Algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage05.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage05.webp" alt="Algosecom">
                     </div>
                     <div class="item-image">
                         <img src="assets/home/sliderimage06.jpg" alt="Algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage01.jpg" alt="Algosecom">
+                        <img src="assets/home/sliderimage01.webp" alt="Algosecom">
                     </div>
                 </div>
             </section>

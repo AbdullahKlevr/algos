@@ -350,25 +350,25 @@ Copyrig</p>
                 </div>
                 <div class="slider-mobile">
                     <div class="item-image">
-                        <img src="assets/home/sliderimage01.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage01.webp" alt="algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage02.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage02.webp" alt="algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage03.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage03.webp" alt="algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage04.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage04.webp" alt="algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage05.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage05.webp" alt="algosecom">
                     </div>
                     <div class="item-image">
                         <img src="assets/home/sliderimage06.jpg" alt="algosecom">
                     </div>
                     <div class="item-image">
-                        <img src="assets/home/sliderimage01.jpg" alt="algosecom">
+                        <img src="assets/home/sliderimage01.webp" alt="algosecom">
                     </div>
                 </div>
             </section>
