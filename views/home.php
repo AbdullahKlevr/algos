@@ -12,13 +12,13 @@
         <!-- End Google Tag Manager (noscript) -->
         
         <main>
-            <div class="loader">
+            <!-- <div class="loader">
                 <span class="loaderbefore"></span>
                 <div class="d-inline-block banner-img ">
                     
                     <img class="arrow-fill fill" src="assets/HS_ALGOSECOM r1-05.png" alt="Algosecom">
                 </div>
-            </div> 
+            </div>  -->
             
             <?php include_once("includes/header.php") ?>
                 
@@ -38,7 +38,7 @@
                             </div>
 </div>
 <div class="col-lg-6">
-    <img class="hero-lap" src="../assets/home/laptop.png" alt="">
+    <img class="hero-lap" src="../assets/home/laptop.webp" alt="">
                             <!-- <div class="image-banner-home-vw">
                                 <img class="small-image-vw " src="assets/home/homebanner-1.png" alt="algosecom">
                                 <img class="small-image-vw " src="assets/home/homebanner-2.png" alt="algosecom">
