@@ -32,7 +32,7 @@
                             <div class="banner-text-inner aboutus-banner-text jit-banner-text">
                                 <h5 class="tags-jit">Just-In-Time</h5>
                                 <h1 class="fa-75vw font-weight-bold line-height-85vw">Shopify <br><span class="gradient-color jit-green-gradent">Dropshipping</span></h1>
-                                <p class="fa-18vw max-w-600vw mt-26">Unlock success with our expert guidance for building a profitable Shopify dropshipping business, featuring affordable milestone-based pricing.</p>
+                                <p class="fa-18vw max-w-600vw mt-26">Get started on your Shopify journey with the support of our experts. We offer milestone-based pricing, so you can find a package that suits your needs!</p>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="hwdi-jit-text-image">
-                                <p>We revolutionize the Shopify dropshipping experience through a meticulously crafted "just-in-time" model. This approach dissects the business setup into essential milestones, each tailored to specific stages of your venture. This strategic breakdown allows us to guide you through each pivotal stage, setting you up for triumph in the dynamic world of dropshipping.</p>
+                                <p>We revolutionize the Shopify dropshipping process with a carefully designed "just-in-time" model. This strategy breaks down the business setup into critical milestones, customized for different stages of your journey. This methodical approach enables us to assist you through every critical phase, positioning you for success in the ever-evolving realm of dropshipping.</p>
                             </div>
                         </div>
                     </div>
@@ -339,8 +339,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our </span>Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. 
+</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -374,7 +375,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -425,7 +426,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

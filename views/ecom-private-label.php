@@ -32,7 +32,7 @@
                         <div class="col-lg-6 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-75vw font-weight-bold line-height-85vw">Ecom Private <br><span class="gradient-color">Label</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">Our Ecom Private Label service provides you with the opportunity to create your own private label store. We handle the entire process, from product research and branding to website design and marketing. Our goal is to help you achieve success and maximize your profit</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">With our Ecom Private Label service, you can establish your own private label store effortlessly. We oversee every aspect, from product research and branding to website design and marketing. Our objective is to facilitate your success and maximize your profitability in the e-commerce world.</p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -69,15 +69,17 @@
                         <div class="row align-items-center">
                             <div class="col-lg-7 col-md-7 col-account-reinstatement-text">
                                 <div class="stated">
-                                    <h3 class="no-before font-weight-bold">Why you need <span class="gradient-color">Ecom Private Label?</span></h3>
-                                    <!--<p class="my-30">Building an e-commerce brand can increase the value of your business and create opportunities for growth and expansion. With an ecommerce brand, the sky's the limit! As your brand grows, you can expand your product offerings, build a loyal customer base, and increase your revenue, e-commerce brand can help you build trust and credibility with your customers. When people recognize your brand, they are more likely to trust your products and make a purchase. By building your own e-commerce brand, you can create a unique identity for your business that reflects your values, vision, and mission. </p>-->
+                                    <h3 class="no-before font-weight-bold">Why is an  <span class="gradient-color">Ecom Private Label Important </span></h3>
+                                    <p class="my-30">Having an Ecom private label helps you:
+ </p>
                                     <ul class="spl-need-list">
-                                        <li>Reach wider audience on leading marketplaces.</li>
-                                        <li>Create your niche and deliver value.</li>
-                                        <li>Maximize your Business Growth.</li>
-                                        <li>More trusted & loyal customers.</li>
-                                        <li>Get a long term business model.</li>
-                                        <li>Be a Sole Owner with no Profit Sharing.</li>
+                                        <li>Reach a wider audience on leading marketplaces</li>
+                                        <li>Create your niche and deliver value
+</li>
+                                        <li>Maximize your business growth</li>
+                                        <li>Gain more trusted & loyal customers</li>
+                                        <li>Establish a long-term business model</li>
+                                        <li>Be a sole owner with no profit-sharing</li>
                                     </ul>
                                 </div>
                             </div>
@@ -282,7 +284,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Business <span class="gradient-color">Setup</span></h3>
-                                    <p>Our comprehensive support services will assist you in LLC registration as well as account setup on various platforms such as Stripe, Amazon, and Shopify.</p>
+                                    <p>We offer elaborate support services to help you register your LLC and set up your account on multiple platforms, including Amazon and Shopify. We also help you create a Stripe account. </p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -301,7 +303,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Market <span class="gradient-color">Research</span></h3>
-                                    <p>Our experienced research team conducts thorough data analysis, industry analysis, and customer analysis to provide valuable insights into your focus group and market segmentation.</p>
+                                    <p>Our seasoned research team conducts comprehensive data analysis, industry research, and customer analysis to unearth valuable insights into your target audience and market segmentation. Through meticulous examination, we identify key trends, preferences, and opportunities to inform strategic decision-making and optimize your market approach.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -320,7 +322,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Product <span class="gradient-color">Research</span></h3>
-                                    <p>Our product research process involves several key points. We begin by conducting extensive research into product volume to determine which items are currently in high demand. We then examine the features and benefits of potential products to ensure they meet the needs of your target marketplace. We perform competitor analysis to identify potential threats and opportunities in the marketplace, we conduct monthly revenue research to track the sales performance of recommended products.</p>
+                                    <p>Our product research process is comprehensive and strategic. We commence by digging deep into product volume and identifying items experiencing high demand in the current market landscape. Next, we meticulously evaluate the features and benefits of prospective products, ensuring alignment with the preferences of your target audience. Through competitor analysis, we pinpoint potential challenges and opportunities within the market sphere. Additionally, we conduct ongoing revenue research to monitor the sales performance of recommended products, ensuring adaptability to evolving market dynamics.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -339,7 +341,8 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Patent <span class="gradient-color">Check</span></h3>
-                                    <p>We conduct rigorous patent searches to verify the novelty and patentability of your product ideas, evaluate their utility, and ensure that they’re in line with the necessary specifications and claims. We ensure that your brand is protected and reduce the likelihood of any legal complications arising from patent infringement.</p>
+                                    <p>Our patent check process involves thorough searches to assess the novelty and patentability of your product concepts. We thoroughly evaluate their utility and verify compliance with essential specifications and claims. This rigorous procedure aims to safeguard your brand and mitigate the risk of potential legal entanglements related to patent infringement.
+</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -358,7 +361,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Product <span class="gradient-color">Sourcing</span></h3>
-                                    <p>Our sourcing solutions help you secure high-quality products from supplier research to onboarding trusted suppliers and sample ordering at competitive prices, ensuring profitability and customer satisfaction.We onboard inspection companies to ensure that the products meet your quality standards and specifications.</p>
+                                    <p>Our comprehensive product sourcing services cover the entire spectrum, from diligent supplier research to the seamless onboarding of trusted suppliers and the procurement of samples at competitive rates. This process guarantees both profitability and customer satisfaction. Additionally, we collaborate with inspection companies to verify that sourced products adhere to your rigorous quality standards and specifications.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -377,7 +380,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Brand <span class="gradient-color">Development</span></h3>
-                                    <p>Our branding experts work with you to establish a strong brand identity that resonates with your target audience, setting you apart from competitors and fostering brand loyalty.We create,website design,brand logo,tagline,website design and more to help you stand out in a crowded marketplace.We build a brand that drives conversions and loyalty.</p>
+                                    <p>Our seasoned branding specialists collaborate closely with you to craft a compelling brand identity that deeply connects with your intended audience, distinguishing you from competitors and nurturing brand loyalty. From creating captivating website designs and memorable brand logos to crafting impactful taglines, we equip you with all the essential elements to stand out in a competitive marketplace. Our goal is to cultivate a brand that not only drives conversions but also fosters lasting customer loyalty.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -396,7 +399,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Product <span class="gradient-color">Lisitng</span></h3>
-                                    <p>Our team of skilled professionals creates optimised product titles and descriptions by keyword research and provide high quality images that enhance visibility, boost sales, and provide a seamless shopping experience for your customers.</p>
+                                    <p>Our team of adept professionals crafts optimized product titles and descriptions through comprehensive keyword research. Additionally, we provide high-quality images that not only enhance visibility but also drive sales, ensuring a seamless shopping experience for your valued customers.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -415,7 +418,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Marketing <span class="gradient-color">Campaigns</span></h3>
-                                    <p>We craft effective Google, Youtube, Facebook/Instagram, Tiktok, Amazon, and marketing campaigns, Social Media Platforms, we can help you reach your target audience by creating engaging content and targeted ads that deliver results. Our Amazon PPC and Marketing services are designed to help you reach a wider audience and increase your sales on these popular marketplaces.</p>
+                                    <p>We specialize in crafting impactful campaigns across various platforms, including Google, YouTube, Facebook/Instagram, TikTok, and Amazon. Leveraging the power of social media, we create engaging content and targeted ads tailored to reach your specific audience, ensuring tangible results. With our Amazon PPC and Marketing services, we aim to expand your reach and elevate sales on these prominent marketplaces.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -434,7 +437,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Content <span class="gradient-color">Marketing</span></h3>
-                                    <p>With engaging, relevant, and informative content through digitised videos, product videos and blogs we shall captivate your audience, foster trust, and establish you as an authority in your niche.</p>
+                                    <p>Through captivating and relevant content, including digitized videos, product videos, and blogs, we aim to captivate your audience, foster trust, and position you as an authority in your niche. Our content marketing strategies are designed to engage your target audience and drive meaningful interactions, ultimately leading to increased brand awareness and customer loyalty.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -453,7 +456,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Affiliate <span class="gradient-color">Marketing</span></h3>
-                                    <p>Our expert team establishes and manages high-performing affiliate marketing programs to drive leads, increase sales, and maximise revenue.</p>
+                                    <p>We specialize in establishing and managing high-performing affiliate marketing programs aimed at driving leads, boosting sales, and maximizing revenue. Our expert team crafts tailored strategies to attract top affiliates, optimize conversions, and foster mutually beneficial partnerships, ensuring measurable results for your business.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -472,7 +475,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Influencer <span class="gradient-color">Endorsement</span></h3>
-                                    <p>We identify and collaborate with influential figures in your industry to promote your brand and products to their engaged followers, boosting your credibility and sales.Our team of seasoned professionals will help you create a buzz around your brand by collaborating with the most sought-after influencers in your niche.</p>
+                                    <p>Our team excels at identifying and partnering with influential figures in your industry to endorse your brand and products to their engaged followers, enhancing your credibility and driving sales. With our expertise, we'll create a buzz around your brand by collaborating with top influencers in your niche, ensuring maximum exposure and impact.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -491,7 +494,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Order <span class="gradient-color">Management</span></h3>
-                                    <p>Our streamlined order management services ensure that your order processing, warehouse management, shipping and delivering, payment processing, order tracking, return and exchange, and inventory management are efficiently carried out, so you can focus on delivering exceptional customer experiences.</p>
+                                    <p>Our comprehensive order management services streamline every aspect of your operations, including order processing, warehouse management, shipping and delivery, payment processing, order tracking, returns and exchanges, and inventory management. With our efficient processes in place, you can concentrate on providing exceptional customer experiences while we handle the logistics seamlessly.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -510,7 +513,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 ml-auto text-container-text">
                                     <h3 class="no-before">Customer <span class="gradient-color">Support</span></h3>
-                                    <p>Our dedicated customer support team provides friendly, responsive, and professional chat support services, resolves customer queries and issues, ensuring that your customers have a satisfying shopping experience with timely responses.</p>
+                                    <p>Our dedicated team of customer support specialists offers friendly, responsive, and professional chat support services. We efficiently handle customer queries and concerns, ensuring timely responses and resolution to guarantee a satisfying shopping experience for your customers.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -529,7 +532,7 @@
                             <div class="col-lg-6 m col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text">
                                     <h3 class="no-before">Brand <span class="gradient-color">Protection</span></h3>
-                                    <p>We offer proactive brand protection services that mitigate unauthorization and prevent counterfeit products and sellers, and other threats to your brand's intellectual property, copyrights and trademarks.</p>
+                                    <p>Our proactive brand protection services safeguard your brand's intellectual property, copyrights, and trademarks. We mitigate unauthorized activities and prevent counterfeit products and sellers, ensuring the integrity and reputation of your brand.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5">
@@ -547,8 +550,8 @@
             <section class="py-100 packages-we-have position-relative packages-spl">
                 <span class="gradient-settings-packages gradient-before-image"></span>
                 <div class="container-1560 text-center">
-                    <h3 class="fa-60 font-weight-bold">Packages <span class="gradient-color">We Have</span></h3>
-                    <p class="fa-18 max-w-1150 my-30">We offer a cost-effective package tailored to the needs of, amazon private label brand making it easy to manage your e-commerce platform and achieve maximum sales, high customer traffic, and multiple profit margins.</p>
+                    <h3 class="fa-60 font-weight-bold">Our <span class="gradient-color">Packages</span></h3>
+                    <p class="fa-18 max-w-1150 my-30">We offer budget-friendly packages customized to your requirements, simplifying the management of your e-commerce platform. </p>
                 </div>
                 <div class="container-1560">
                     <!--<div class="package-single-main-parent">-->
@@ -728,8 +731,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our </span>Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. 
+</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -763,7 +767,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -814,7 +818,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. /</p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">
