@@ -68,16 +68,16 @@
                     <div class="text-center">
                         <h3 class="fa-80 font-weight-bold">Our Easy <span class="gradient-color">Process</span></h3>
                     </div>
-                    <div class="our-process-flex">
-                        <img class="info" src="../assets/home/info.png" alt="">
-</div>
                     <!-- <div class="our-process-flex">
+                        <img class="info" src="../assets/home/info.png" alt="">
+</div> -->
+                    <div class="our-process-flex">
                         <div class="circle-columns">
                             <div class="position-relative image-right">
                                 <img alt="algosecom" src="assets/home/circleprocess.png">
                                 <div class="text-inner-process">
                                     <h2>Planning</h2>
-                                    <p>Our expert team strategizes and integrates efficient elements to create a seamless e-commerce solution that addresses all your needs.</p>
+                                    <p>We kick off the process by planning every aspect of your ecom store. This involves understanding your business goals, target audience, and unique selling propositions to develop a solid strategy.</p>
                                 </div>
                                 <span>01</span>
                             </div>
@@ -87,7 +87,7 @@
                                 <img alt="algosecom" src="assets/home/secondcircle.png">
                                 <div class="text-inner-process">
                                     <h2>Research</h2>
-                                    <p>We deliver innovative business solutions by utilizing thorough research of the market trends, products, audiences and platforms.</p>
+                                    <p>We uncover valuable insights through market research, which we leverage to fine-tune your store's positioning, product selection, and marketing approach to maximize your competitive advantage.</p>
                                 </div>
                                 <span>02</span>
                             </div>
@@ -97,7 +97,7 @@
                                 <img alt="algosecom" src="assets/home/thirdcircle.png">
                                 <div class="text-inner-process">
                                     <h2>Optimization</h2>
-                                    <p>We will optimize your products and listings to increase the number of successful conversions and sales.</p>
+                                    <p>Whether it's optimizing SEO, fine-tuning pricing strategies, or enhancing visual elements, we leave no stone unturned in our quest to optimize your store for maximum efficiency and profitability.</p>
                                 </div>
                                 <span>03</span>
                             </div>
@@ -107,12 +107,12 @@
                                 <img alt="algosecom" class="rotated-img" src="assets/home/last-circle.png">
                                 <div class="text-inner-process">
                                     <h2>Results</h2>
-                                    <p>We design and develop e-commerce platforms that are guaranteed to drive sales and deliver measurable results.</p>
+                                    <p>As your automated e-commerce store goes live and attracts customers, we continuously monitor performance metrics and analyze key indicators to track progress against predefined goals.</p>
                                 </div>
                                 <span>04</span>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </section>
             

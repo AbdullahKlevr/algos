@@ -289,8 +289,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our Customers 
+</span> Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients.</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -307,15 +308,34 @@
                             </button>
                         </div>
                     </div>
-                    
-                    <div class="text-center">
+                    <div class="row testimonial">
+                    <div class="col-lg-4 testi">
+                        <img  class="img-testi"src="assets/home/testimonial-1-3.webp" alt="">
+                        <p>I've had the pleasure of working with the Algosecom team, and I can confidently say they are the go-to experts for all things related to digital marketing and Dropshipping. Their professionalism and creative approach set them apart from the rest.</p>
+                        <h1>Emily Turner</h1>
+                        
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
+                        <p>I can't emphasize enough how fortunate I feel to have discovered Algosecom Their Amazon marketing services are truly the best in the industry, and their team is outstanding. They've certainly earned my trust, and I'll be a returning client for sure!</p>
+                        <h1>Samantha Mitchell</h1>
+                       
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-2.webp" alt="">
+                        <p>Algosecom provided me with exceptional e-commerce services when it came to creating my online store. Their team was highly professional and attentive to my needs. If you're in search of top-notch Shopify, Amazon, or Walmart services.</p>
+                        <h1>Daniel Reynolds</h1>
+                        
+                    </div>
+                    </div>
+                    <!-- <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
                             <span>View All</span>
                             <span>
                                 <img src="assets/arrow-right.svg" alt="Algosecom">
                             </span>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </section>
                 
