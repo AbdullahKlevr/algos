@@ -31,7 +31,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text">
                                 <h1 class="fa-80vw font-weight-bold line-height-85vw">Account <br><span class="gradient-color">Reinstatement</span></h1>
-                                <p class="fa-18vw max-w-600vw my-30vw">If you're having problems with your Amazon seller's account, our Amazon account reinstatement service will get your account up and live in no time.</p>
+                                <p class="fa-18vw max-w-600vw my-30vw">If you're experiencing issues with your Amazon seller's account, our Amazon account reinstatement service will swiftly restore your account, ensuring it's operational without delay.</p>
                                 <button class="btn-reg-vw mt-lg-5 mt-3" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Started</button>
                             </div>
                         </div>
@@ -58,8 +58,9 @@
                         <div class="row align-items-center">
                             <div class="col-lg-7 col-md-7 col-account-reinstatement-text">
                                 <div class="stated">
-                                    <h3 class="no-before font-weight-bold">WE SUCCESSFULLY REINSTATED <span class="gradient-color">99% OF OUR CLIENT'S</span>AMAZON ACCOUNTS</h3>
-                                    <p class="my-30">We have a 99% success rate with account reinstatement at Amazon. We have helped our clients resolve a wide range of issues such as multiple Amazon accounts, inauthentic product complaints, review manipulation, negative customer feedback, and others. Our team of experts specializes in reinstating Amazon sellers’ accounts.</p>
+                                    <h3 class="no-before font-weight-bold">Our Amazon Account Reinstatement  
+<span class="gradient-color">Success Rate</span>is 99%</h3>
+                                    <p class="my-30">With a remarkable 99% success rate in account reinstatement on Amazon, we have assisted numerous clients in resolving various issues, including multiple Amazon accounts, inauthentic product complaints, review manipulation, negative customer feedback, and more. Our experts are dedicated to specializing in reinstating Amazon sellers' accounts promptly and effectively.</p>
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-5 col-account-reinstatement-images">
@@ -76,7 +77,8 @@
                 <div class="container-1560">
                     <div class="row py-100 pt-0">
                         <div class="col-lg-12">
-                            <h3 class="fa-90 font-weight-bold line-height-85 text-center">How We <span class="gradient-color">Do It</span></h3>
+                            <h3 class="fa-90 font-weight-bold line-height-85 text-center">Our Amazon Account 
+ <span class="gradient-color">Reinstatement Process</span></h3>
                         </div>
                     </div>
                     <div class="reinstatedhowwedoit bg-ecomtext position-relative py-100 pt-0">
@@ -85,7 +87,7 @@
                                 <div class="rein-hwdi py-50">
                                      <img src="assets/services/accountreinstatement/feedback-form.png">
                                 </div>     
-                                <p>Fill in the consultation form. Please include suspension notice to speed up the review.</p>
+                                <p>Complete the consultation form, including the suspension notice, to expedite the review process.</p>
                             </div>
                         </div>
                         <div class="reinstatedhowwedoit-col">
@@ -93,7 +95,7 @@
                                 <div class="rein-hwdi py-50">
                                      <img src="assets/services/accountreinstatement/payment-protection.png">
                                 </div>     
-                                <p>If we can help, payment instructions will be sent to you.</p>
+                                <p>If we can assist you, payment instructions will be sent to you promptly.</p>
                             </div>
                         </div>
                         <div class="reinstatedhowwedoit-col">
@@ -101,7 +103,7 @@
                                 <div class="rein-hwdi py-50">
                                     <img src="assets/services/accountreinstatement/letter.png">
                                 </div>    
-                                <p>We will then send you a bespoke appeal letter and plan of action to submit.</p>
+                                <p>Upon receipt of payment, we will provide you with a bespoke appeal letter and action plan tailored to your situation.</p>
                             </div>
                         </div>
                         <div class="reinstatedhowwedoit-col">
@@ -109,7 +111,7 @@
                                 <div class="rein-hwdi py-50">                            
                                     <img src="assets/services/accountreinstatement/waiting-message.png">
                                 </div>    
-                                <p>Wait for Amazon's response to your appeal. "Your Amazon account has been reinstated".</p>
+                                <p>Submit the appeal and action plan to Amazon and await their response.</p>
                             </div>
                         </div>
                         <div class="reinstatedhowwedoit-col">
@@ -117,7 +119,7 @@
                                 <div class="rein-hwdi py-50">
                                     <img src="assets/services/accountreinstatement/store.png">
                                 </div>    
-                                <p>Back to start selling again.</p>
+                                <p>Once you receive confirmation that "Your Amazon account has been reinstated," you can resume selling on the platform.</p>
                             </div>
                         </div>
                     </div>
@@ -131,22 +133,23 @@
                     <div class="container-1560">
                         <div class="row-suspension">
                             <div class="col-6-suspension">
-                                <h4 class="fa-50 font-weight-bold text-white">Amazon account suspensions we can assist you with:</h4>
+                                <h4 class="fa-50 font-weight-bold text-white">Amazon Account Suspension Situations We Can Help With 
+</h4>
                             </div>
                             <div class="col-6-suspension">
                                 <ul class="suspensionlisting">
                                     <li>Inauthentic or counterfeit item</li>
-                                    <li>Intellectual property</li>
+                                    <li>Intellectual property infringement</li>
                                     <li>Product safety complaints</li>
-                                    <li>Listing do not match detail page</li>
-                                    <li>Used item sold as new</li>
-                                    <li>Not as advertised</li>
-                                    <li>Multiple Amazon accounts</li>
+                                    <li>The listing does not match the detail page</li>
+                                    <li>Selling used items as new</li>
+                                    <li>Misrepresentation in advertisements</li>
+                                    <li>Having multiple Amazon accounts</li>
                                     <li>Review manipulation</li>
-                                    <li>Negative customer feedback</li>
-                                    <li>Restricted products</li>
-                                    <li>Price fixing</li>
-                                    <li>Fulfillment by merchant issues</li>
+                                    <li>Addressing negative customer feedback</li>
+                                    <li>Dealing with restricted products</li>
+                                    <li>Pricing violations, including price fixing</li>
+                                    <li>Issues related to fulfillment by merchant</li>
                                 </ul>
                             </div>
                         </div>
@@ -168,7 +171,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-625 ml-auto text-container-text">
                                 <h3 class="no-before">Multiple Amazon <br><span class="gradient-color">Accounts</span></h3>
-                                <p>To cater to you with multiple account issues, we have a team of legal experts dedicated to handling them. Our Amazon account reinstatement specialist knows how to save your multiple accounts from getting suspended or even fight a case if it's already suspended and make it up and live so you can start earning from it again.</p>
+                                <p>We have a dedicated team of legal experts to assist with multiple account issues. Our Amazon account reinstatement specialist is adept at preventing suspension or fighting cases if an account is already suspended. We ensure your accounts are reinstated promptly, allowing you to resume earning from them.</p>
                                 <div class="va-prcing-modal">
                                     <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                 </div>
@@ -190,7 +193,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text ">
                                     <h3 class="no-before">Inauthentic Product <br><span class="gradient-color">Complaints</span></h3>
-                                    <p>Inauthentic complaints are taken seriously by Amazon. The sale of counterfeit products on Amazon is strictly forbidden, but sometimes Amazon bans your store if it fails to meet Amazon's unknown standards. And that's where our Amazon seller account reinstatement services come in! With our deep sea knowledge and expertise, our legal team takes charge of your account and makes it live again.</p>
+                                    <p>Amazon takes inauthentic complaints seriously, as the sale of counterfeit products is strictly prohibited. However, sometimes Amazon may suspend your store for reasons that are not transparent. This is where our Amazon seller account reinstatement services can help! Leveraging our extensive knowledge and expertise, our legal team assumes responsibility for your account and restores its functionality.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                     </div>
@@ -212,7 +215,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-625 ml-auto text-container-text">
                                 <h3 class="no-before">Intellectual Property <br><span class="gradient-color">Issues & Complaints</span></h3>
-                                <p>Our Amazon account reinstatement specialist can assist you in addressing and resolving any intellectual property issues or complaints that may arise on Amazon. This includes identifying infringing listings, submitting complaints to Amazon, and working with legal counsel to protect your intellectual property rights. We will work diligently to ensure that your brand and products are protected on the platform.</p>
+                                <p>Our Amazon account reinstatement specialist is equipped to help you tackle and resolve any intellectual property issues or complaints encountered on Amazon. This encompasses identifying infringing listings, filing complaints with Amazon, and collaborating with legal experts to safeguard your intellectual property rights. Rest assured, we are committed to protecting your brand and products on the platform.</p>
                                 <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                     </div>
@@ -234,7 +237,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text ">
                                     <h3 class="no-before">Review <br><span class="gradient-color">Manipulation</span></h3>
-                                    <p>We can assist you in addressing and resolving review manipulation issues on Amazon. Our Amazon account reinstatement service includes identifying fake reviews, removing them, and implementing strategies to prevent future manipulation. We will work closely with Amazon's policies and guidelines to ensure that your account stays in good standing and help you to reinstate it.</p>
+                                    <p>Our services extend to addressing and resolving review manipulation issues on Amazon. As part of our Amazon account reinstatement service, we specialize in identifying and removing fake reviews, as well as implementing preventive measures to deter future manipulation. We adhere closely to Amazon's policies and guidelines to maintain the integrity of your account and assist you in its reinstatement.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                     </div>
@@ -256,7 +259,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-625 ml-auto text-container-text">
                                 <h3 class="no-before">Negative Customer <br><span class="gradient-color">Feedback</span></h3>
-                                <p>We can assist you with reinstating the negative customer feedback issue on Amazon. Our Amazon account reinstatement specialist will work with Amazon to resolve and restore your reputation on the platform and give your store a new life. </p>
+                                <p>Addressing negative customer feedback on Amazon is within our scope of assistance. Our Amazon account reinstatement specialist will collaborate with Amazon to resolve and improve your reputation on the platform, giving your store a fresh start.</p>
                                 <div class="va-prcing-modal">
                                     <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                 </div>
@@ -278,7 +281,7 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text ">
                                     <h3 class="no-before">Restricted <br><span class="gradient-color">Products</span></h3>
-                                    <p>Our Amazon account reinstatement specialist can assist you with reinstating products that have been restricted by Amazon due to policy violations or other issues. We will work with the Amazon team to identify the problem and resolve the issue and get your products back on the platform.</p>
+                                    <p>Our Amazon account reinstatement specialist is equipped to aid you in reinstating products restricted by Amazon due to policy violations or other issues. We will collaborate with the Amazon team to identify the root cause of the problem and implement solutions to resolve the issue, ensuring your products are reinstated on the platform.</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                     </div>
@@ -300,7 +303,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-625 ml-auto text-container-text">
                                 <h3 class="no-before">Items Not as <br><span class="gradient-color">Described</span></h3>
-                                <p>Our Amazon seller account reinstatement services can help you resolve and reinstate your account if it has been suspended due to the items not being as the described issue on Amazon. Our team of experts will work with you to understand the problem, gather the necessary information and evidence, and communicate with Amazon on your behalf to have your account reinstated. We will also help you implement measures to prevent similar issues from happening in the future.</p>
+                                <p>If your Amazon seller account has been suspended due to items not being as described, our reinstatement services can assist you. Our team of experts will collaborate with you to comprehend the issue, collect essential information and evidence, and engage with Amazon on your behalf to reinstate your account. Additionally, we will support you in implementing preventative measures to mitigate similar issues in the future.</p>
                                 <div class="va-prcing-modal">
                                     <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                 </div>
@@ -322,7 +325,8 @@
                             <div class="col-lg-6 col-md-7">
                                 <div class="max-w-625 mr-auto text-container-text ">
                                     <h3 class="no-before">Price <span class="gradient-color">Fixing</span></h3>
-                                    <p>The account reinstatement on Amazon can help you reinstate your products and resolve price-fixing issues on Amazon. Our team has the expertise and knowledge to help you navigate through the process and ensure your products are back on the platform on time.</p>
+                                    <p>Our Amazon account reinstatement service can aid in reinstating your products and resolving price-fixing issues on Amazon. With our team's expertise and knowledge, we guide you through the process to ensure your products are swiftly reinstated on the platform.
+</p>
                                     <div class="va-prcing-modal">
                                         <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                     </div>
@@ -344,7 +348,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="max-w-625 ml-auto text-container-text">
                                 <h3 class="no-before">Fulfillment By <br><span class="gradient-color">Merchant Issues</span></h3>
-                                <p>We have helped numerous clients with Fulfillment By Merchant (FBM) issues on Amazon, resulting in the successful reinstatement of their suspended accounts and resumed sales. Our team of Amazon account reinstatement specialists has the knowledge and experience to navigate the complex FBM policy and guidelines, and we work closely with our clients to address any violations and implement solutions to prevent future issues.</p>
+                                <p>Our track record includes assisting numerous clients with Fulfillment by Merchant (FBM) issues on Amazon. This has led to the successful reinstatement of their suspended accounts and the resumption of sales. Our team of Amazon account reinstatement specialists possesses the expertise to navigate FBM policies and guidelines. We collaborate closely with our clients to rectify violations and implement preventive measures to avoid future issues.</p>
                                 <div class="va-prcing-modal">
                                     <button class="btn-reg" data-bs-toggle="modal" data-bs-target="#singupmodal">Get Help</button>
                                  </div>
@@ -443,7 +447,7 @@
                         <div class="col-moneyback-text">
                             <div class="text-moneyback">
                                 <h6 class="fa-50 font-weight-bold"><span class="gradient-color">100%</span> Money Back Guarantee</h6>
-                                <p>We offer 100% money back guarantee if we can't reinstate your suspended Amazon account. Our team of experts has a proven track record of reinstating suspended accounts. Trust us to help you get back on track and start selling on Amazon again.</p>
+                                <p>We offer a 100% money-back guarantee if we cannot reinstate your suspended Amazon account. With our team's proven track record in reinstating suspended accounts, you can trust us to assist you in getting back on track and resume selling on Amazon.</p>
                             </div>
                         </div>
                         <div class="col-moneyback-img">
@@ -464,8 +468,9 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
                         <div class="text-portion-feedback mr-auto">
-                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">Our Customer</span> Feedback</h2>
-                            <p class="fa-24 mt-15">Don’t take our word for it. Trust our customers.</p>
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our </span>Customers Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients. 
+</p>
                         </div>
                         <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
                             <button class="btn-slider prev-btn">
@@ -499,7 +504,7 @@
                 <div class="container-1560">
                     <div class="align-items-center d-flex justify-space-between sm-responsive-change">
                         <h5 class="fa-90 font-weight-bolder w-50">Success <span class="color-yellow">Stories</span></h5>
-                        <p class="fa-20 max-w-924">Our ecommerce success stories speak for themselves! Multiple businesses and social platforms have benefitted greatly by making use of our quality e-commerce expertise to be able to gauge maximum profit margins as well as a greater customer base.</p>
+                        <p class="fa-20 max-w-924">We’ve helped countless clients scale their businesses, improving their sales and optimizing their profitability. </p>
                     </div>
                     <div class="d-flex my-5">
                         <div class="buttons-slider d-flex ml-auto slider-mobile-btn">
@@ -550,7 +555,7 @@
                         <div class="bg-image-curve">
                             <div class="text-get-started">
                                 <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
+                                <p>If you’re ready, then why wait? You’re just a click away from getting your business started. Please fill out the form, and our support team will get back to you with fruitful e-commerce solutions. </p>
                             </div>
                         </div>
                         <div class="form-on-top container-1560">

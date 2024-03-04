@@ -39,12 +39,12 @@
 </div>
 <div class="col-lg-6">
     <img class="hero-lap" src="../assets/home/laptop.webp" alt="">
-                            <!-- <div class="image-banner-home-vw">
-                                <img class="small-image-vw " src="assets/home/homebanner-1.png" alt="algosecom">
-                                <img class="small-image-vw " src="assets/home/homebanner-2.png" alt="algosecom">
-                                <img class="small-image-vw " src="assets/home/homebanner-3.png" alt="algosecom">
+                            <div class="image-banner-home-vw">
+                                <!-- <img class="small-image-vw " src="assets/home/homebanner-1.png" alt="algosecom">
+                                <img class="small-image-vw " src="assets/home/homebanner-2.png" alt="algosecom"> -->
+                                <!-- <img class="small-image-vw " src="assets/home/homebanner-3.png" alt="algosecom"> -->
                                 <img class="small-image-vw " src="assets/home/homebanner-4.png" alt="algosecom">
-                            </div> -->
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -412,15 +412,34 @@
                             </button>
                         </div>
                     </div>
-                    
-                    <div class="text-center">
+                    <div class="row testimonial">
+                    <div class="col-lg-4 testi">
+                        <img  class="img-testi"src="assets/home/testimonial-1-3.webp" alt="">
+                        <p>I've had the pleasure of working with the Algosecom team, and I can confidently say they are the go-to experts for all things related to digital marketing and Dropshipping. Their professionalism and creative approach set them apart from the rest.</p>
+                        <h1>Emily Turner</h1>
+                        
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
+                        <p>I can't emphasize enough how fortunate I feel to have discovered Algosecom Their Amazon marketing services are truly the best in the industry, and their team is outstanding. They've certainly earned my trust, and I'll be a returning client for sure!</p>
+                        <h1>Samantha Mitchell</h1>
+                       
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-2.webp" alt="">
+                        <p>Algosecom provided me with exceptional e-commerce services when it came to creating my online store. Their team was highly professional and attentive to my needs. If you're in search of top-notch Shopify, Amazon, or Walmart services.</p>
+                        <h1>Daniel Reynolds</h1>
+                        
+                    </div>
+                    </div>
+                    <!-- <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
                             <span>View All</span>
                             <span>
                                 <img src="assets/arrow-right.svg" alt="Algosecom">
                             </span>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </section>
                 
