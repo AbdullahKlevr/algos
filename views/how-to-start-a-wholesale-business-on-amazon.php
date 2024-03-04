@@ -335,17 +335,18 @@
                         
                     </div>
                     <div class="col-lg-4 testi">
-                    <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
-                        <p>Ecom Automation is the best investment I have ever made! I’m an Amazon business owner and utilize Ecom Automation to manage my businesses day to day. My plan is to retire at the end of the year and I have Ecom Automation to thank for that! Thank you!!</p>
-                        <h1>Samantha Mitchell</h1>
-                       
-                    </div>
-                    <div class="col-lg-4 testi">
                     <img  class="img-testi"src="assets/home/testimonial-1-2.webp" alt="">
                         <p>I’ll admit, I was a bit skeptical before getting into this service. I literally have no computer background or any e-commerce knowledge. I was referred to Ecom Automation by a friend and I’m so glad I listened! I never imagined I could be a business owner, let alone have a business that I didn’t have to personally manage. At this rate, I’ll have a 7 figure business by this fall!</p>
                         <h1>Daniel Reynolds</h1>
                         
                     </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
+                        <p>Ecom Automation is the best investment I have ever made! I’m an Amazon business owner and utilize Ecom Automation to manage my businesses day to day. My plan is to retire at the end of the year and I have Ecom Automation to thank for that! Thank you!!</p>
+                        <h1>Samantha Mitchell</h1>
+                       
+                    </div>
+                    
                     </div>
                     <!-- <div class="text-center">
                         <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
