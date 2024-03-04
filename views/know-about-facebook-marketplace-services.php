@@ -292,19 +292,19 @@
                     <div class="row testimonial">
                     <div class="col-lg-4 testi">
                         <img  class="img-testi"src="assets/home/testimonial-1-3.webp" alt="">
-                        <p>I've had the pleasure of working with the Algosecom team, and I can confidently say they are the go-to experts for all things related to digital marketing and Dropshipping. Their professionalism and creative approach set them apart from the rest.</p>
+                        <p>Thank you so much! Your customer service and prompt replies made this an easy decision. The growing business and incredible ROI is the icing on the cake!! I'll be sending family and friends your way!</p>
                         <h1>Emily Turner</h1>
                         
                     </div>
                     <div class="col-lg-4 testi">
                     <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
-                        <p>I can't emphasize enough how fortunate I feel to have discovered Algosecom Their Amazon marketing services are truly the best in the industry, and their team is outstanding. They've certainly earned my trust, and I'll be a returning client for sure!</p>
+                        <p>Ecom Automation is the best investment I have ever made! I’m an Amazon business owner and utilize Ecom Automation to manage my businesses day to day. My plan is to retire at the end of the year and I have Ecom Automation to thank for that! Thank you!!</p>
                         <h1>Samantha Mitchell</h1>
                        
                     </div>
                     <div class="col-lg-4 testi">
                     <img  class="img-testi"src="assets/home/testimonial-1-2.webp" alt="">
-                        <p>Algosecom provided me with exceptional e-commerce services when it came to creating my online store. Their team was highly professional and attentive to my needs. If you're in search of top-notch Shopify, Amazon, or Walmart services.</p>
+                        <p>I’ll admit, I was a bit skeptical before getting into this service. I literally have no computer background or any e-commerce knowledge. I was referred to Ecom Automation by a friend and I’m so glad I listened! I never imagined I could be a business owner, let alone have a business that I didn’t have to personally manage. At this rate, I’ll have a 7 figure business by this fall!</p>
                         <h1>Daniel Reynolds</h1>
                         
                     </div>
