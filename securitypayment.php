@@ -268,7 +268,7 @@ curl_setopt_array($curl, array(
 	
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/blacklogo.png" alt="logoa" style="width:18%;"> </a>
+                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/HS_ALGOSECOM r1-04.png" alt="logoa" style="width:18%;"> </a>
                     
             </nav>        
         </div>
