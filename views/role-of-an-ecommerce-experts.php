@@ -316,20 +316,7 @@
 </span> Say</h2>
                             <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients.</p>
                         </div>
-                        <div class="buttons-slider d-flex ml-auto mt-md-5 mt-sm-4 testimonial-slider-btn">
-                            <button class="btn-slider prev-btn">
-                                <span>
-                                    <i class="fas fa-chevron-left"></i>
-                                </span>
-                                <span>Previous</span>
-                            </button>
-                            <button class="btn-slider next-btn">
-                                <span>Next</span>
-                                <span>
-                                    <i class="fas fa-chevron-right"></i>
-                                </span>
-                            </button>
-                        </div>
+                        
                     </div>
                     <div class="row testimonial">
                     <div class="col-lg-4 testi">

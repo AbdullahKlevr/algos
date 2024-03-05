@@ -53,120 +53,44 @@
                 </a>
             </section>
             
-            <section class="our-customer-feedback pt-150 position-relative z-index-1" id="sec2">
+            <section class="bg-black our-customer-feedback py-130 text-white linear-gradient-orange position-relative z-index-1 after-dots-image">
                 <div class="container-1560">
-                    <div class="text-portion-feedback text-center">
-                        <h2 class="fa-70 font-weight-bold">Our Satisfied <span class="gradient-color"> Clients</span></h2>
+                    <div class="align-items-center d-flex flex-column flex-md-row justify-content-between">
+                        <div class="text-portion-feedback mr-auto">
+                            <h2 class="fa-60 font-weight-bold"><span class="color-yellow">What Our Customers 
+</span> Say</h2>
+                            <p class="fa-24 mt-15">Don’t take our word for it. Hear it directly from our esteemed clients.</p>
+                        </div>
+                        
                     </div>
-                    <!-- <div class="testimonials-page-testimonials-items text-white">
-                        <div class="testimonial-box active-testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Anna</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/anna.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Anna.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Bill</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/bill.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Bill.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henesen</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/hensen.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Henesen.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Henrick</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/henrick.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Henrick.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Jennifer</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/jennifer.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Jennifer.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="testimonial-box">
-                            <div class="inner-testimonial-box">
-                                <div>
-                                    <h6 class="fa-60 font-weight-bold">Scott</h6>
-                                    
-                                </div>
-                                <img class="right-image" src="assets/testimonialvideo/scott.png">
-                                <h6 class="bottom-text-abs">Testimonial</h6>
-                                <button class="btn-testimonial" data-bs-toggle="modal" data-bs-target="#videomodal">
-                                    <i class="fas fa-play"></i>
-                                </button>
-                                <span class="d-none video-source-hidden">
-                                    <video controls>
-                                      <source src="assets/testimonialvideo/Scott.m4v" type="video/mp4">
-                                    </video>
-                                </span>
-                            </div>
-                        </div>
+                    <div class="row testimonial">
+                    <div class="col-lg-4 testi">
+                        <img  class="img-testi"src="assets/home/testimonial-1-3.webp" alt="">
+                        <p>Thank you so much! Your customer service and prompt replies made this an easy decision. The growing business and incredible ROI is the icing on the cake!! I'll be sending family and friends your way!</p>
+                        <h1>Emily Turner</h1>
+                        
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-2.webp" alt="">
+                        <p>I’ll admit, I was a bit skeptical before getting into this service. I literally have no computer background or any e-commerce knowledge. I was referred to Ecom Automation by a friend and I’m so glad I listened! I never imagined I could be a business owner, let alone have a business that I didn’t have to personally manage. At this rate, I’ll have a 7 figure business by this fall!</p>
+                        <h1>Daniel Reynolds</h1>
+                        
+                    </div>
+                    <div class="col-lg-4 testi">
+                    <img  class="img-testi"src="assets/home/testimonial-1-1.webp" alt="">
+                        <p>Ecom Automation is the best investment I have ever made! I’m an Amazon business owner and utilize Ecom Automation to manage my businesses day to day. My plan is to retire at the end of the year and I have Ecom Automation to thank for that! Thank you!!</p>
+                        <h1>Samantha Mitchell</h1>
+                       
+                    </div>
+                    
+                    </div>
+                    <!-- <div class="text-center">
+                        <a class="btn-reg btn-with-icon" href="ecommerce-success-stories/">
+                            <span>View All</span>
+                            <span>
+                                <img src="assets/arrow-right.svg" alt="Algosecom">
+                            </span>
+                        </a>
                     </div> -->
                 </div>
             </section>
