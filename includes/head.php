@@ -91,6 +91,15 @@ if (isset($_SERVER['HTTPS'])) {
             })(window,document,'script','dataLayer','GTM-PTXLH23R');
         </script>
         <!-- End Google Tag Manager -->
-        
+        <a href="https://api.whatsapp.com/send?phone=3073927441" target="_blank" class="whatspp-icon float"> <img loading="lazy" src="assets/home/whatsapp.png" alt="whatsapp-icon"></a>
+        <style>
+        .jun {
+    visibility: hidden;
+    position: absolute;
+  }
+  
+
+  .whatspp-icon{position:fixed;bottom:20px;left:20px;z-index:99999999;}.whatspp-icon img{max-width:88%;display:block}@media only screen and (max-width: 800px) and (min-width: 320px){.whatspp-icon{position:fixed;bottom:20px;right:2px;z-index:99999999;width:60px}}
+</style> 
         <link rel="preload" href="../cdn.respond.io/webchat/widget/widget1cd7.js?cId=3555cb201771b72e4309d5c89677cf4447bc9e10b2b73b71118ff5f0755e1695" as="script">
 </head>

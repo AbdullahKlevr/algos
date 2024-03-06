@@ -80,11 +80,11 @@
                                 </div>
                                 <div class="points-of-contact-items">
                                     <h6>Call Us:</h6>
-                                    <a href="tel:(786) 432-8540">(786) 432-8540</a>
+                                    <a href="tel:(307) 392-7441">(307) 392-7441</a>
                                 </div>
                                 <div class="points-of-contact-items">
                                     <h6>Email Us</h6>
-                                    <a href="mailto:(786) 432-8540">info@algosecom.com</a>
+                                    <a href="mailto:(307) 392-7441">info@algosecom.com</a>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                                     <a href="mailto:info@algosecom.com">info@algosecom.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:7864328540">(786) 432-8540</a>
+                                    <a href="tel:3073927441">(307) 392-7441</a>
                                 </li>
                             </ul>
                         </div>

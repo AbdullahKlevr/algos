@@ -43,7 +43,7 @@
                                 <!-- <img class="small-image-vw " src="assets/home/homebanner-1.png" alt="algosecom">
                                 <img class="small-image-vw " src="assets/home/homebanner-2.png" alt="algosecom"> -->
                                 <!-- <img class="small-image-vw " src="assets/home/homebanner-3.png" alt="algosecom"> -->
-                                <img class="small-image-vw " src="assets/home/homebanner-4.png" alt="algosecom">
+                                <!-- <img class="small-image-vw " src="assets/home/homebanner-4.png" alt="algosecom"> -->
                             </div>
                             </div>
                         </div>

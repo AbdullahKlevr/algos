@@ -100,7 +100,7 @@
                                     <a href="mailto:info@algosecom.com">info@algosecom.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:7864328540">(786) 432-8540</a>
+                                    <a href="tel:3073927441">(307) 392-7441</a>
                                 </li>
                             </ul>
                         </div>
