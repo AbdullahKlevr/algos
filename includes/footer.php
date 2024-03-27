@@ -161,6 +161,11 @@ St. Petersburg , FL 33702</p>
                             </ul>
                         </div>
                     </div>
+                    <div class="disc">
+                        <div class="container">
+                            <p>Disclosure : Algosecom is a strategic partner of Saibina Corp</p>
+                        </div>
+                    </div>
                 </div>
                 <a href="javascript:void(0)" class="chevron-up-icon">
                     <i class="fas fa-chevron-up"></i>

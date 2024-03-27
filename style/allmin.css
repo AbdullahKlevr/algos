@@ -4366,3 +4366,8 @@ select {
     color: #df7e26;
     font-weight: 800;
 }
+.disc{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
