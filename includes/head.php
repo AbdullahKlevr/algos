@@ -91,7 +91,7 @@ if (isset($_SERVER['HTTPS'])) {
             })(window,document,'script','dataLayer','GTM-PTXLH23R');
         </script>
         <!-- End Google Tag Manager -->
-        <a href="https://api.whatsapp.com/send?phone=3073927441" target="_blank" class="whatspp-icon float"> <img loading="lazy" src="assets/home/whatsapp.png" alt="whatsapp-icon"></a>
+        <a href="https://api.whatsapp.com/send?phone=+14388070537" target="_blank" class="whatspp-icon float"> <img loading="lazy" src="assets/home/whatsapp.png" alt="whatsapp-icon"></a>
         <style>
         .jun {
     visibility: hidden;
