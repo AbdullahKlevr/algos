@@ -4166,7 +4166,7 @@ select {
     .form-shopify-deals form {
         border-radius: 15px;
     }
-
+    
 
 .jit-green .services-jit-main-item::before {
     border-radius: 12px;
@@ -4370,4 +4370,1376 @@ select {
     display: flex;
     justify-content: center;
     text-align: center;
+}
+/*TIKTOK*/
+.absolute-images-tiktok {
+    position: absolute;
+    max-width: 244px;
+    right: -80px;
+    top: 0;
+}
+
+.absolute-images-tiktok.tt-ds {
+    right: auto;
+    left: -50px;
+    bottom: 0;
+    top: auto;
+    max-width: 190px;
+}
+
+.image-item-banner-jit.apl-jit-image.tt-banner-images {
+    max-width: 30%;
+}
+
+.hwdi-jit-text-image.sc-tt-img > img {
+    transform: scale(1.5) translateX(-30px);
+}
+.image-wwcdfy-tt img {
+    width: 100%;
+    height: 390px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.tt-roadmap-to-success-heading {
+    text-align: center;
+    margin-bottom: 110px;
+}
+
+.tt-roadmap-to-success-heading h6 {
+    font-size: 70px;
+    color: #231F20;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.tt-roadmap-to-success-heading h2 {
+    font-size: 270px;
+    font-weight: 700;
+    line-height: 74%;
+    letter-spacing: -4.61px;
+}
+
+.our-journey-row {
+    display: flex;
+    align-items: flex-start;
+    max-width: 1235px;
+    margin: 0 auto;
+}
+
+.col-our-journey {
+    flex: 0 0 25%;
+}
+
+.tiktok-journey-changes .our-journey-row:last-child {
+    margin-top: 110px;
+}
+
+.our-value-item-image {
+    width: 123px;
+    height: 123px;
+    background: linear-gradient(85deg, #F8CF36, #F8A401);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.our-value-item-image img {
+    height: 57%;
+}
+
+.tt-roadmap-to-success {
+    padding: 120px 0;
+}
+
+.our-journey-item-text h3 {
+    font-size: 16px;
+    letter-spacing: -1px;
+    font-weight: 600;
+    color: #000;
+    line-height: 140%;
+    margin-top: 21px;
+}
+
+.bg-our-journey-main-box {
+    position: relative;
+}
+
+.bg-our-journey-main-box:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url(../assets/roadmap.png);
+    background-position: center calc(100% - 115px);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.tiktok-journey-changes .col-our-journey:nth-child(even) .our-value-item-image {
+    background: linear-gradient(180deg, #A3A3A3, #3A3A3A);
+}
+
+.heading-fullscreen-main-tt h3 {
+    font-size: 15.4vw;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: -0.3vw;
+    text-transform: uppercase;
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(180deg, #000 -250%, #0000 96%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 80%;
+}
+
+.heading-fullscreen-main-tt {
+    text-align: center;
+    margin-bottom: 180px;
+}
+
+.heading-fullscreen-main-tt h6 {
+    font-size: 57px;
+    display: inline-block;
+    padding: 16px 44px;
+    background-image: url(../assets/wwcd-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    letter-spacing: -3.25px;
+    transform: rotate(-3deg);
+    margin-top: -45px;
+}
+
+.wwcdfy-section-tt {
+    padding: 150px 0;
+}
+
+.items-wwcdfy-tt {
+    margin-bottom: 180px;
+}
+
+.items-wwcdfy-tt:last-child {
+    margin-bottom: 0;
+}
+
+.items-wwcdfy-tt-text h3 {
+    font-size: 52px;
+    letter-spacing: -2.73px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.items-wwcdfy-tt-text h3 > span {
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(90deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text {
+    max-width: 100%;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li {
+    font-size: 20px;
+    color: #434B53;
+    line-height: 143%;
+    margin-bottom: 28px;
+}
+
+.circle-image-tt {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    background: linear-gradient(85deg, #F8CF36, #F8A401);
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.image-wwcdfy-tt {
+    position: relative;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::before,.items-wwcdfy-tt-text.services-jit-column-text ul li::after {
+    top: 14px;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::after {
+    transform: scale(0.5) translateY(-50%);
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::before {
+    transform: none;
+}
+
+.items-wwcdfy-tt.reverse-items-wwcdfy-tt .row {
+    flex-direction: row-reverse;
+}
+
+.items-wwcdfy-tt.reverse-items-wwcdfy-tt .row .circle-image-tt {
+    right: auto;
+    left: 0;
+    background: linear-gradient(180deg, #A3A3A3, #3A3A3A);
+}
+
+.pricing-boxes-tiktok-parent {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    max-width: 540px;
+}
+
+.pricing-box-tiktok {
+    max-width: 254px;
+    width: 100%;
+    background: linear-gradient(180deg, #202020 10%, #373636 150%);
+    text-align: center;
+    border-radius: 15px;
+    position: relative;
+    padding: 34px 20px 36px;
+    border: 1px solid #F8A401;
+}
+
+.pricing-box-tiktok > span {
+    position: absolute;
+    top: -21.5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgb(36 36 36);
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+    max-width: 161px;
+    padding: 11px 0;
+    border-radius: 50px;
+    z-index: 1;
+}
+
+.pricing-box-tiktok > span:before {
+    content: '';
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 35px;
+    background: linear-gradient(90deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    z-index: -1;
+    padding: 1px;
+    opacity: 1;
+}
+
+.pricing-box-tiktok > span:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 14px;
+    background: #000000;
+    border-radius: 50px;
+    opacity: 0.5;
+    z-index: -1;
+    filter: blur(17.83px);
+}
+
+.pricing-box-tiktok > h3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #F8A401;
+    filter: drop-shadow(0px 6.72px 10px rgb(0,0,0,0.6));
+    line-height: 130%;
+}
+
+.pricing-box-tiktok > p {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.pricing-box-tiktok button.btn-reg {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -70px;
+    width: 100%;
+    max-width: 138px;
+    font-size: 14px;
+    padding: 12px 24px;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+    min-height: auto;
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
+}
+
+.pricing-box-tiktok:hover button.btn-reg {
+    bottom: -22.5px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.package-single-main-parent.amazon-wholesale-single-item.tiktok-shop-pricing {
+    padding: 68px 99px 71px 88px;
+    border: 1px solid #F8CF36;
+    background: linear-gradient(180deg, #231F20 0%, #4D4D4D 100%);
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul li {
+    z-index: 1;
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul {
+    margin: 0;
+}
+
+.tiktok-shop-pricing .pricing-items {
+    margin-bottom: 51px;
+}
+
+.tiktok-shop-pricing .col-lg-6 > .text-left h5 {
+    font-size: 20px;
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(92deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: inherit;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.tiktok-shop-pricing .col-lg-6 > .text-left  p {
+    font-size: 10px;
+    line-height: 200%;
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul li:before,.tiktok-shop-pricing .services-jit-column-text ul li:after {
+    opacity: 1;
+}
+/*TIKTOK*/
+/*TIKTOKVw*/
+@media (min-width:991px){
+    /*TIKTOK*/
+.absolute-images-tiktok {
+    position: absolute;
+    max-width: 12.71vw;
+    right: -4.17vw;
+    top: 0;
+}
+
+.absolute-images-tiktok.tt-ds {
+    right: auto;
+    left: -2.6vw;
+    bottom: 0;
+    top: auto;
+    max-width: 9.9vw;
+}
+
+.image-item-banner-jit.apl-jit-image.tt-banner-images {
+    max-width: 30%;
+}
+
+.hwdi-jit-text-image.sc-tt-img > img {
+    transform: scale(1.5) translateX(-1.56vw);
+}
+.image-wwcdfy-tt img {
+    width: 100%;
+    height: 20.31vw;
+    object-fit: contain;
+    object-position: center;
+}
+
+.tt-roadmap-to-success-heading {
+    text-align: center;
+    margin-bottom: 5.73vw;
+}
+
+.tt-roadmap-to-success-heading h6 {
+    font-size: 3.65vw;
+    color: #231F20;
+    font-weight: 700;
+    margin-bottom: 1.56vw;
+}
+
+.tt-roadmap-to-success-heading h2 {
+    font-size: 14.06vw;
+    font-weight: 700;
+    line-height: 74%;
+    letter-spacing: -0.24vw;
+}
+
+.our-journey-row {
+    display: flex;
+    align-items: flex-start;
+    max-width: 64.32vw;
+    margin: 0 auto;
+}
+
+.col-our-journey {
+    flex: 0 0 25%;
+}
+
+.tiktok-journey-changes .our-journey-row:last-child {
+    margin-top: 5.73vw;
+}
+
+.our-value-item-image {
+    width: 6.41vw;
+    height: 6.41vw;
+    background: linear-gradient(85deg, #F8CF36, #F8A401);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.our-value-item-image img {
+    height: 57%;
+}
+
+.tt-roadmap-to-success {
+    padding: 6.25vw 0;
+}
+
+.our-journey-item-text h3 {
+    font-size: 0.83vw;
+    letter-spacing: -0.05vw;
+    font-weight: 600;
+    color: #000;
+    line-height: 140%;
+    margin-top: 1.09vw;
+}
+
+.bg-our-journey-main-box {
+    position: relative;
+}
+
+.bg-our-journey-main-box:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url(../assets/roadmap.png);
+    background-position: center calc(100% - 5.99vw);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.tiktok-journey-changes .col-our-journey:nth-child(even) .our-value-item-image {
+    background: linear-gradient(180deg, #A3A3A3, #3A3A3A);
+}
+
+.heading-fullscreen-main-tt h3 {
+    font-size: 15.4vw;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: -0.3vw;
+    text-transform: uppercase;
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(180deg, #000 -250%, #0000 96%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 80%;
+}
+
+.heading-fullscreen-main-tt {
+    text-align: center;
+    margin-bottom: 9.38vw;
+}
+
+.heading-fullscreen-main-tt h6 {
+    font-size: 2.97vw;
+    display: inline-block;
+    padding: 0.83vw 2.29vw;
+    background-image: url(../assets/wwcd-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    letter-spacing: -0.17vw;
+    transform: rotate(-3deg);
+    margin-top: -2.34vw;
+}
+
+.wwcdfy-section-tt {
+    padding: 7.81vw 0;
+}
+
+.items-wwcdfy-tt {
+    margin-bottom: 9.38vw;
+}
+
+.items-wwcdfy-tt:last-child {
+    margin-bottom: 0;
+}
+
+.items-wwcdfy-tt-text h3 {
+    font-size: 2.71vw;
+    letter-spacing: -0.14vw;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.items-wwcdfy-tt-text h3 > span {
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(90deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text {
+    max-width: 100%;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li {
+    font-size: 1.04vw;
+    color: #434B53;
+    line-height: 143%;
+    margin-bottom: 1.46vw;
+}
+
+.circle-image-tt {
+    width: 20.83vw;
+    height: 20.83vw;
+    display: inline-block;
+    background: linear-gradient(85deg, #F8CF36, #F8A401);
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.image-wwcdfy-tt {
+    position: relative;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::before,.items-wwcdfy-tt-text.services-jit-column-text ul li::after {
+    top: 0.73vw;
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::after {
+    transform: scale(0.5) translateY(-50%);
+}
+
+.items-wwcdfy-tt-text.services-jit-column-text ul li::before {
+    transform: none;
+}
+
+.items-wwcdfy-tt.reverse-items-wwcdfy-tt .row {
+    flex-direction: row-reverse;
+}
+
+.items-wwcdfy-tt.reverse-items-wwcdfy-tt .row .circle-image-tt {
+    right: auto;
+    left: 0;
+    background: linear-gradient(180deg, #A3A3A3, #3A3A3A);
+}
+
+.pricing-boxes-tiktok-parent {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    max-width: 28.13vw;
+}
+
+.pricing-box-tiktok {
+    max-width: 13.23vw;
+    width: 100%;
+    background: linear-gradient(180deg, #202020 10%, #373636 150%);
+    text-align: center;
+    border-radius: 0.78vw;
+    position: relative;
+    padding: 1.77vw 1.04vw 1.88vw;
+    border: 0.05vw solid #F8A401;
+}
+
+.pricing-box-tiktok > span {
+    position: absolute;
+    top: -1.12vw;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgb(36 36 36);
+    font-size: 0.73vw;
+    font-weight: 600;
+    width: 100%;
+    max-width: 8.39vw;
+    padding: 0.57vw 0;
+    border-radius: 2.6vw;
+    z-index: 1;
+}
+
+.pricing-box-tiktok > span:before {
+    content: '';
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 1.82vw;
+    background: linear-gradient(90deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    z-index: -1;
+    padding: 0.05vw;
+    opacity: 1;
+}
+
+.pricing-box-tiktok > span:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0.73vw;
+    background: #000000;
+    border-radius: 2.6vw;
+    opacity: 0.5;
+    z-index: -1;
+    filter: blur(0.93vw);
+}
+
+.pricing-box-tiktok > h3 {
+    font-size: 2.08vw;
+    font-weight: 700;
+    color: #F8A401;
+    filter: drop-shadow(0vw 0.35vw 0.52vw rgb(0,0,0,0.6));
+    line-height: 130%;
+}
+
+.pricing-box-tiktok > p {
+    font-size: 0.73vw;
+    font-weight: 600;
+}
+
+.pricing-box-tiktok button.btn-reg {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -3.65vw;
+    width: 100%;
+    max-width: 7.19vw;
+    font-size: 0.73vw;
+    padding: 0.63vw 1.25vw;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+    min-height: auto;
+    font-size: 0.63vw;
+    color: #000;
+    font-weight: 700;
+}
+
+.pricing-box-tiktok:hover button.btn-reg {
+    bottom: -1.17vw;
+    opacity: 1;
+    visibility: visible;
+}
+
+.package-single-main-parent.amazon-wholesale-single-item.tiktok-shop-pricing {
+    padding: 3.54vw 5.16vw 3.7vw 4.58vw;
+    border: 0.05vw solid #F8CF36;
+    background: linear-gradient(180deg, #231F20 0%, #4D4D4D 100%);
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul li {
+    z-index: 1;
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul {
+    margin: 0;
+}
+
+.tiktok-shop-pricing .pricing-items {
+    margin-bottom: 2.66vw;
+}
+
+.tiktok-shop-pricing .col-lg-6 > .text-left h5 {
+    font-size: 1.04vw;
+    color: transparent;
+    background: -webkit-linear-gradient(left, #F8A401 20.95%, #F8CF36 96.01%);
+    background: linear-gradient(92deg, #F8A401 20.95%, #F8CF36 96.01%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: inherit;
+    margin-bottom: 0.52vw;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.tiktok-shop-pricing .col-lg-6 > .text-left  p {
+    font-size: 0.52vw;
+    line-height: 200%;
+}
+
+.tiktok-shop-pricing .services-jit-column-text ul li:before,.tiktok-shop-pricing .services-jit-column-text ul li:after {
+    opacity: 1;
+}
+/*TIKTOK*/
+}
+/*TIKTOKVw*/
+@media (max-width:992px){
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package span {
+        line-height: 27px;
+        margin: 8px 0;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package h4 {
+        font-size: 12px;
+        max-width: 100px;
+        padding: 8px 0;
+        top: -14px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        padding: 25px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package p {
+        font-size: 12px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package .btn-reg {
+        font-size: 12px;
+        padding: 6px 0;
+        max-width: 70%;
+        bottom: -16px;
+    }
+    .package-single-main-parent.amazon-wholesale-single-item .triplePricing .pricing-single-package-text p{
+        font-size:10px;
+    }
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package h4{
+        font-size: 8px;
+    }
+    .triplePricing .heading-list-single-package.pricing-single-package span {
+        font-size: 19px;
+        margin-bottom: 0;
+    }
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package p {
+        font-size: 7px;
+        margin-bottom: 5px;
+    }
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package .btn-reg {
+        font-size: 10px;
+    }
+    .package-single-main-parent.amazon-wholesale-single-item .pricing-single-package-text p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    
+    .package-single-main-parent.amazon-wholesale-single-item .pricing-single-package-text p > br {
+        display: none;
+    }
+
+
+    .why-reseller .spl-need-list li {
+        font-size: 12px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    ul.spl-need-list.spl-need-listTn li:before {
+        width: 8px;
+        height: 8px;
+        top: 12px;
+    }
+    
+    .reseller-hwdi .reinstatedhowwedoit {
+        max-width: 100%;
+    }
+    
+    .reseller-hwdi .reinstatedhowwedoit h4 {
+        font-size: 18px;
+    }
+    
+    .reseller-service .text-container-text h3 {
+        font-size: 30px;
+    }
+    
+    .reseller-service .text-container-text p {
+        font-size: 12px;
+    }
+    
+    .reseller-service .text-container-text ul li {
+        font-size: 12px;
+        line-height: 233%;
+    }
+    
+    .contact-us-form-row {
+        max-width: 90%;
+        padding: 30px 30px 45px;
+    }
+    
+    .form-portion-resseller h4 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    
+    .form-portion-resseller form .btn-reg.btn-with-icon {
+        bottom: -20px;
+    }
+    
+    .form-portion-resseller {
+        max-width: 50%;
+    }
+    
+    .form-portion-resseller form input, .form-portion-resseller form textarea {
+        font-size: 12px;
+        border-radius: 4px;
+        padding: 10px 10px;
+    }
+    
+    .banner-text-inner h6 {
+        font-size: 12px;
+    }
+
+    .form-inputs label{
+        font-size:12px;
+    }
+
+    /*TIKTOK*/
+    .absolute-images-tiktok {
+        max-width: 100px;
+    }
+    
+    .absolute-images-tiktok.tt-ds {
+        max-width: 80px;
+    }
+    
+    .hwdi-jit-text-image.sc-tt-img > img {
+        transform: scale(1.1) translateX(0px);
+        display: none;
+    }
+    
+    .tt-roadmap-to-success {
+        padding: 50px 0;
+    }
+    
+    .tt-roadmap-to-success-heading h6 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .tt-roadmap-to-success-heading h2 {
+        font-size: 110px;
+    }
+    
+    .tt-roadmap-to-success-heading {
+        margin-bottom: 50px;
+    }
+    
+    .our-value-item-image {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .our-journey-item-text h3 {
+        font-size: 14px;
+        letter-spacing: -1px;
+        line-height: 140%;
+        margin-top: 10px;
+    }
+    
+    .bg-our-journey-main-box:before {
+        background-size: 100% 50%;
+        background-position: center calc(100% - 95px);
+    }
+    
+    .tiktok-journey-changes .our-journey-row:last-child {
+        margin-top: 30px;
+    }
+    
+    .wwcdfy-section-tt {
+        padding: 50px 0;
+    }
+    
+    .heading-fullscreen-main-tt h6 {
+        font-size: 25px;
+        letter-spacing: -2px;
+        padding: 10px 34px;
+    }
+    
+    .heading-fullscreen-main-tt,.items-wwcdfy-tt {
+        margin-bottom: 80px;
+    }
+    
+    .items-wwcdfy-tt-text h3 {
+        font-size: 25px;
+        letter-spacing: -1px;
+    }
+    
+    .items-wwcdfy-tt-text.services-jit-column-text ul li {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    
+    .items-wwcdfy-tt-text.services-jit-column-text ul li::before, .items-wwcdfy-tt-text.services-jit-column-text ul li::after {
+        top: 10px;
+    }
+    
+    .image-wwcdfy-tt img {
+        height: 180px;
+        object-position: right;
+        padding-right: 100px;
+    }
+    
+    .circle-image-tt {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .items-wwcdfy-tt.reverse-items-wwcdfy-tt .image-wwcdfy-tt img {
+        object-position: left;
+        padding-right: 0;
+        padding-left: 100px;
+    }
+    
+    .image-wwcdfy-tt {
+        margin: 15px 0px;
+    }
+    
+    .items-wwcdfy-tt-text h3 > br {
+        display: none;
+    }
+    
+    .pricing-box-tiktok {
+        max-width: calc(50% - 15px);
+    }
+    
+    .pricing-boxes-tiktok-parent {
+        max-width: 100%;
+        margin: 40px 0;
+    }
+    
+    .package-single-main-parent.amazon-wholesale-single-item.tiktok-shop-pricing {
+        padding: 50px 40px;
+    }
+    /*TIKTOK*/
+}
+@media (max-width:767px){
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package .btn-reg {
+        position: relative;
+        bottom: 0;
+        left: 0;
+        transform: none;
+        margin-top: 10px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package h4 {
+        position: static;
+        transform: none;
+        margin: 0 auto 10px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        padding: 15px;
+    }
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        padding: 1.5vw;
+        max-width:33.33%;
+    }
+    .single-item-double-pricing {
+        margin-bottom: 15px;
+    }
+    .triplePricing .single-item-double-pricing:before {
+        opacity: 0;
+    }
+
+    .reseller-service .image-container-service img {
+        max-width: 30%;
+        margin: 0 auto;
+    }
+    
+    .reseller-service .image-container-service {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    
+    .reseller-service .text-container-text ul li {
+        padding: 0;
+    }
+    
+    .reseller-service .text-container-text ul li:before {
+        display: none;
+    }
+    
+    .form-portion-resseller {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    
+    .image-portion-resseller img {
+        width: 43%;
+        display: none;
+    }
+    
+    .form-portion-resseller h4 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .form-portion-resseller form input, .form-portion-resseller form textarea {
+        margin-bottom: 20px;
+    }
+    
+    .form-portion-resseller form .btn-reg.btn-with-icon {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .absolute-images-tiktok {
+        display: none;
+    }
+
+    .tt-roadmap-to-success,.wwcdfy-section-tt {
+        padding: 30px 0;
+    }
+
+    .tt-roadmap-to-success-heading h6 {
+        font-size: 25px;
+    }
+
+    .tt-roadmap-to-success-heading h2 {
+        font-size: 80px;
+        letter-spacing: -2px;
+    }
+
+    .our-journey-item-text h3 {
+        font-size: 12px;
+        line-height: 130%;
+    }
+
+    .our-value-item-image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .bg-our-journey-main-box:before {
+        display: none;
+    }
+
+    .tiktok-journey-changes .our-journey-row:last-child {
+        flex-direction: row-reverse;
+    }
+
+    .image-wwcdfy-tt img {
+        height: 140px;
+        object-position: right;
+        padding-right: 60px;
+    }
+
+    .circle-image-tt {
+        width: 140px;
+        height: 140px;
+    }
+
+    .items-wwcdfy-tt.reverse-items-wwcdfy-tt .image-wwcdfy-tt img {
+        object-position: right;
+        padding-right: 60px;
+    }
+
+    .items-wwcdfy-tt {
+        margin-bottom: 50px;
+    }
+
+    .services-jit-column-text ul li {
+        font-size: 12px;
+    }
+
+    .pricing-box-tiktok > span {
+        font-size: 12px;
+        max-width: 120px;
+        padding: 9px 0;
+        top: -18px;
+    }
+
+    .pricing-box-tiktok {
+        padding: 30px 20px;
+    }
+
+    .pricing-box-tiktok > h3 {
+        font-size: 30px;
+    }
+
+    .pricing-box-tiktok > p {
+        font-size: 12px;
+    }
+
+    .pricing-box-tiktok button.btn-reg {
+        font-size: 12px;
+        min-height: 20px;
+        padding: 8px 10px;
+        max-width: 120px;
+    }
+
+    .pricing-box-tiktok:hover button.btn-reg,.pricing-box-tiktok button.btn-reg {
+        opacity: 1;
+        visibility: visible;
+        bottom: -16px;
+    }
+
+    .items-wwcdfy-tt.reverse-items-wwcdfy-tt .row .circle-image-tt {
+        left: auto;
+        right: 0;
+    }
+}
+@media (max-width:575px){
+    .single-item-double-pricing {
+        flex-flow: wrap;
+        border-radius: 15px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    
+    .single-item-double-pricing:before {
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        height: 1px;
+        width: 100%;
+    }
+    
+    .package-single-main-parent.amazon-wholesale-single-item .pricing-single-package-text p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package h4 {
+        box-shadow: 0 0 0 1px #fe8f1e;
+    }
+    .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        padding: 25px 10px;
+    }
+
+    .reseller-service .image-container-service img {
+        max-width: 30%;
+        margin: 0 auto;
+    }
+    
+    .reseller-service .image-container-service {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    
+    .reseller-service .text-container-text ul li {
+        padding: 0;
+    }
+    
+    .reseller-service .text-container-text ul li:before {
+        display: none;
+    }
+    
+    .form-portion-resseller {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    
+    .image-portion-resseller img {
+        width: 43%;
+        display: none;
+    }
+    
+    .form-portion-resseller h4 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 20px;
+        line-height: 32px;
+    }
+    
+    .form-portion-resseller form input, .form-portion-resseller form textarea {
+        margin-bottom: 20px;
+    }
+    
+    .form-portion-resseller form .btn-reg.btn-with-icon {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    
+    .resellerplan .aboutus-banner-text br {
+        display: block;
+    }
+    
+    .animation-hand-reseller img {
+        opacity: 0.4;
+    }
+    
+    .why-reseller .spl-need-list li {
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    
+    .reseller-hwdi .reinstatedhowwedoit .rein-hwdi img {
+        width: 80px;
+        height: 80px;
+        z-index: 1;
+    }
+    
+    .reseller-service .image-container-service img {
+        max-width: 70%;
+    }
+    
+    .reseller-service .text-container-text h3 {
+        font-size: 28px;
+    }
+    
+    .reseller-service .text-container-text ul {
+        margin-top: 20px;
+    }
+    
+    .form-portion-resseller form textarea {
+        height: 80px;
+    }
+    
+    .form-portion-resseller form input, .form-portion-resseller form textarea {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .sign-up-for-reseller-plan-image {
+        margin: 45px 0 80px;
+    }
+    
+    .contact-us-form-row {
+        background: linear-gradient(0deg, #F8A401 0%, rgba(255, 255, 255, 0.00) 70%);
+    }
+    
+    .reseller-wbr {
+        text-align: center;
+    }
+    
+    .reseller-wbr ul li {
+        padding: 0;
+    }
+    
+    .reseller-wbr ul li:before {
+        display: none;
+    }
+
+
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package {
+        max-width: 150px;
+        margin: 0 auto 15px;
+    }
+    
+    .triplePricing .single-item-double-pricing {
+        padding: 4vw 0;
+    }
+    
+    .triplePricing .single-item-double-pricing .heading-list-single-package.pricing-single-package:last-child {
+        margin-bottom: 0;
+    }
+    
+
+    .get-fieldBox > label {
+        width: 100%;
+    }
+
+
+    .col-our-journey {
+        flex: 0 0 50%;
+        margin-bottom: 20px;
+    }
+    
+    .our-journey-row {
+        flex-flow: wrap;
+    }
+    
+    .tiktok-journey-changes .our-journey-row:last-child {
+        margin: 0;
+    }
+    
+    .tt-roadmap-to-success-heading h2 {
+        font-size: 22vw;
+    }
+    
+    .tt-roadmap-to-success-heading h6 {
+        font-size: 18px;
+    }
+    
+    .heading-fullscreen-main-tt h6 {
+        font-size: 16px;
+        letter-spacing: -1px;
+        margin-top: 0;
+        transform: rotate(0);
+        padding: 8px 20px;
+    }
+    
+    .tt-roadmap-to-success-heading {
+        margin-bottom: 30px;
+    }
+    
+    .items-wwcdfy-tt-text.services-jit-column-text ul li {
+        font-size: 12px;
+        padding: 0;
+    }
+    
+    .items-wwcdfy-tt-text.services-jit-column-text {
+        text-align: center;
+    }
+    
+    .items-wwcdfy-tt-text h3 {
+        font-size: 20px;
+    }
+    
+    .items-wwcdfy-tt-text.services-jit-column-text ul li:before,.items-wwcdfy-tt-text.services-jit-column-text ul li:after {
+        display: none;
+    }
+    
+    .image-wwcdfy-tt img {
+        height: 100px;
+        padding: 0 0 !important;
+        object-position: center !important;
+    }
+    
+    .circle-image-tt {
+        width: 180px;
+        height: 180px;
+        top: 50% !important;
+        left: 50% !important;
+        transform: translate(-50%,-50%) !important;
+        top: 0;
+    }
+    
+    .image-wwcdfy-tt {
+        margin: 40px 0px;
+    }
+    
+    .pricing-box-tiktok {
+        max-width: 100%;
+        margin-bottom: 70px;
+    }
+    
+    .pricing-box-tiktok:last-child {
+        margin-bottom: 0;
+    }
+    
+    .package-single-main-parent.amazon-wholesale-single-item.tiktok-shop-pricing {
+        padding: 30px 20px 15px;
+    }
 }
