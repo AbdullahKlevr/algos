@@ -394,7 +394,7 @@
                                     <div class="pricing-box-tiktok pricing-box-monthly">
                                         <span>Monthly Plan</span>
                                         <h3>14,999
-70/30$999</h3>
+70/30</h3>
                                         <p>Billed Monthly</p>
                                         <button class="btn-reg btn-gradient btn-with-arrow d-inline-flex" data-bs-target="#singupmodal" data-bs-toggle="modal">
                                             <span>Get Started</span>
