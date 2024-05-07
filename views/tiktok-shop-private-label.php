@@ -393,8 +393,8 @@
                                 <div class="pricing-boxes-tiktok-parent">
                                     <div class="pricing-box-tiktok pricing-box-monthly">
                                         <span>Monthly Plan</span>
-                                        <h3>14,999
-70/30</h3>
+                                        <h3>14,999</h3>
+<p>70/30</p>
                                         <p>Billed Monthly</p>
                                         <button class="btn-reg btn-gradient btn-with-arrow d-inline-flex" data-bs-target="#singupmodal" data-bs-toggle="modal">
                                             <span>Get Started</span>
@@ -402,8 +402,8 @@
                                     </div>
                                     <div class="pricing-box-tiktok pricing-box-yearly">
                                         <span>Yearly Plan</span>
-                                        <h3>19,999
-80/20</h3>
+                                        <h3>19,999</h3>
+                                        <p>80/20</p>
                                         <p>Billed Annually</p>
                                         <button class="btn-reg btn-gradient btn-with-arrow d-inline-flex" data-bs-target="#singupmodal" data-bs-toggle="modal">
                                             <span>Get Started</span>

@@ -48,7 +48,7 @@
                                             <li><a href="account-reinstatement/">Account Reinstatement</a></li>
                                             
                                             <li><a href="ecom-private-label/">Ecom Private Label</a></li>
-                                            <li><a href="tiktok-shop-private-label/">Tiktok Shop Private Label</a></li>
+                                            <li><a href="tiktok-shop-private-label/">Tiktok Shop</a></li>
                                             
                                             <!--<li><a href="https://algosecom.com/algosecom-help">algosecom Help</a></li>-->
                                         </ul>
