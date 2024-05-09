@@ -26,7 +26,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 mr-auto">
                             <div class="banner-text-inner aboutus-banner-text jit-banner-text">
-                                <h1 class="fa-75vw font-weight-bold line-height-85vw">TikTok Shop <br><span class="gradient-color">Private Label</span></h1>
+                                <h1 class="fa-75vw font-weight-bold line-height-85vw">TikTok Shop <br><span class="gradient-color">Automation</span></h1>
                                 <p class="fa-18vw max-w-600vw mt-26">Launch profitable private label business without the stress. We guide you step-by-step, from product selection to launch, optimizing every move for peak efficiency.</p>
                             </div>
                         </div>

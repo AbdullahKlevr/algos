@@ -38,7 +38,7 @@
                         <div class="col-lg-7 col-md-6 col-sm-6 mt-auto position-static-mob-screen">
                             <div class="virtual-assistant-banner-image sm-mob-bg-image">
                                 <img class="image-big-relative w-100" src="assets/services/virtualassistant/bannermain.png">
-                                <img class="image-small" src="assets/services/virtualassistant/bannerbg.png">
+                                <!-- <img class="image-small" src="assets/services/virtualassistant/bannerbg.png"> -->
                             </div>
                         </div>
                     </div>
