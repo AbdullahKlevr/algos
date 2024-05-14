@@ -392,10 +392,10 @@
                             <div class="col-lg-6">
                                 <div class="pricing-boxes-tiktok-parent">
                                     <div class="pricing-box-tiktok pricing-box-monthly">
-                                        <span>Monthly Plan</span>
+                                        <span>Yearly Plan</span>
                                         <h3>14,999</h3>
 <p>70/30</p>
-                                        <p>Billed Monthly</p>
+                                        <p>Billed Annually</p>
                                         <button class="btn-reg btn-gradient btn-with-arrow d-inline-flex" data-bs-target="#singupmodal" data-bs-toggle="modal">
                                             <span>Get Started</span>
                                         </button>
