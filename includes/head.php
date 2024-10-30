@@ -13,6 +13,9 @@ if (isset($_SERVER['HTTPS'])) {
         <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="2NByhIM1xi-8swZnh2fb16n1q3ZkmeI-182Gu6s1BF8" />
+
+
     
     <!-- CSRF Token -->
     <meta name="csrf-token" content="WvWLF8MncOD1WgNNDoPZ2E9mTj1xoWT0WliuMLKo">
@@ -23,6 +26,12 @@ if (isset($_SERVER['HTTPS'])) {
         <link rel="canonical" href="/" />
         <meta name="robots" content="index, follow">
     
+    <style>
+           .form-disclosure {
+               font-size:12px;
+               padding:10px;
+           }
+       </style>
     <!--Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -36,7 +45,13 @@ if (isset($_SERVER['HTTPS'])) {
     </noscript>
     <!--Fonts-->
     <!--Favicon-->
-    <link rel="icon" href="assets/HS_ALGOSECOM r1-05.png" type="image/x-icon">
+    <!--<link rel="icon" href="assets/HS_ALGOSECOM r1-05.png" type="image/x-icon">-->
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+  <!-- Alternative formats for different devices -->
+  <link rel="icon" href="assets/favicon.png" type="image/png">
+  
+  
     <!--Favicon-->
     <!--Preload for all-->
     <link rel="preload" href="../cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" as="style">

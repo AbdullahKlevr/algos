@@ -266,36 +266,7 @@
                 
             </section>
             
-            <section class="sign-up-for-reseller-plan-image">
-                <div class="contact-us-form-row">
-                    <div class="form-portion-resseller">
-                        <form  action="/leads/" method="POST"><input type="hidden" name="url" value='amazon-publishing.html'>
-           <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
-<input type="hidden" name="brand" value="ALGOSECOM">
-<input type="hidden" name="token" value="<?= $token; ?>">
-<input type="hidden" name="tag" value="top-form">
-<input type="hidden" name="price" value="null">
-<input type="hidden" name="news" value="1">
-           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
-                            <input type="hidden" name="page-name" class="pagename" value="resellerplan">
-                            <h4>Sign up For Reseller Program</h4>
-                            <input  name="name" type="text" placeholder="Your Name">
-                            <input  name="phone" type="number" placeholder="Phone">
-                            <input class="mw-100" name="email" type="email" placeholder="Your Email">
-                            <textarea class="mw-100" placeholder="Your Message" name="brief" ></textarea>
-                            <button class="btn-reg btn-with-icon">
-                                <span>Submit</span>
-                                <span>
-                                    <img src="assets/arrow-right.svg" alt="Algosecom">
-                                </span>
-                            </button>
-                        </form>
-                    </div>
-                    <div class="image-portion-resseller">
-                        <img src="assets/reseller/singleguy.png" alt="Algosecom">
-                    </div>
-                </div>
-            </section>
+            <?php include('includes/query-form2.php') ?>
             
             
             

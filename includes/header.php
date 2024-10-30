@@ -83,12 +83,12 @@
                         </div>
                         
                         <div class="phone-items-call-me">
-                            <a href="tel:3073927441">
+                            <a href="tel:+1(909)415-9333">
                                 <span class="phone-icon">
                                     <i class="fa fa-phone"></i>
                                 </span>
                                 <div>
-                                    <p>(307) 392-7441</p>
+                                    <p>+1 (909) 415-9333</p>
                                     <span>Get in Touch With Us</span>
                                 </div>
                             </a>

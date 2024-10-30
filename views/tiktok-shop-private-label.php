@@ -512,52 +512,7 @@
             </section>
             
                         
-            <section class="contact-form-footer py-100">
-                <div class="container-1750">
-                    <div class="main-parent-design">
-                        <div class="bg-image-curve">
-                            <div class="text-get-started">
-                                <h6>Let’s Get Started</h6>
-                                <p>We’re just a click away from providing quality and fruitful e-commerce solutions for you to enjoy a business giving a return on investment as well as standardized trading social platforms.</p>
-                            </div>
-                        </div>
-                        <div class="form-on-top container-1560">
-                            <form class="form1" action="/leads/" method="POST">
-                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
-<input type="hidden" name="brand" value="ALGOSECOM">
-<input type="hidden" name="token" value="<?= $token; ?>">
-<input type="hidden" name="tag" value="top-form">
-<input type="hidden" name="price" value="null">
-<input type="hidden" name="news" value="1">
-           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
-                                <div class="form-inputs">
-                                    <input type="hidden" name="page-name" class="pagename" value="tiktokshopprivatelabel">
-                                    <input type="text" name="name" id="name" placeholder="Your Name" required>
-                                </div>
-                                <div class="form-inputs">
-                                    <input type="email" name="email" id="email" placeholder="Your Email" required>
-                                </div>
-                                <div class="form-inputs">
-                                    <!--<input type="tel" id="number" placeholder="Your Phone" required>-->
-                                    <input class="hiddenphoneinput" type="hidden" id="number" required>
-                                    <input type="tel" id="numberCode" name="phone" name="phoneCode" class="form-control shown-phone-input" required>
-                                </div>
-                                <div class="form-inputs mb-0">
-                                    <textarea type="text" name="brief" id="message" placeholder="Your Message"></textarea>
-                                </div>
-                                <div class="form-checkbox position-relative">
-                                    <input type="checkbox" id="checkboxpp" class="pabs-checkbox" required>
-                                    <label for="checkboxpp" class="designedbox"></label>
-                                    <label for="checkboxpp">I have read and accept the policy &amp; privacy</label>
-                                </div>
-                                <div class="form-input-btn">
-                                    <button type="submit" class="btn-reg">Submit</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <?php include('includes/query-form2.php') ?>
             
                         
             
@@ -567,55 +522,7 @@
             <!-- The Modal -->
             <div class="modal main-modal fade" id="singupmodal">
               <div class="modal-dialog">
-                <div class="modal-content">
-                  <!-- Modal body -->
-                  <div class="modal-body">
-                   
-                    <div class="modal-main-wrap">
-                        <div class="modal-inner">
-                             <div class="modal-logo">
-                                <a href="javascript:void(0)"><img src="assets/HS_ALGOSECOM r1-05.png" alt="algosecom"></a>
-                            </div>
-                            
-                            <h3>Get A Free</h3>
-                            <h2 class="service-head gradient-color">Consultancy</h2>
-                            <form class="modal-form form1" action="/leads/" method="POST">
-                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
-<input type="hidden" name="brand" value="ALGOSECOM">
-<input type="hidden" name="token" value="<?= $token; ?>">
-<input type="hidden" name="tag" value="top-form">
-<input type="hidden" name="price" value="null">
-<input type="hidden" name="news" value="1">
-           <input type="hidden" name="subject" value="Banner Form (Algosecom.com)">
-                                <div class="form-group">
-                                    <input type="text" id="name" name="name" class="form-control" placeholder="Name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" id="email" name="email" class="form-control" placeholder="Email Address*" required>
-                                </div>
-                                <!--<div class="form-group">-->
-                                <!--    <input type="tel" id="number" class="form-control" required>-->
-                                <!--</div>-->
-                                <div class="form-group">
-                                    <input class="hiddenphoneinput" type="hidden" id="number" required>
-                                    <input type="tel" id="numberCode" name="phone" name="phoneCode" class="form-control shown-phone-input" required>
-                                </div>
-                                <div class="form-group">
-                                    <textarea rows="5" cols="" name="brief" id="message" class="form-control" placeholder="Message"></textarea>
-                                </div>
-                                <button type="submit" class="btn-reg-form btn-gradient">
-                                    <i class="fa fa-long-arrow"></i>
-                                    <span>Submit</span>
-                                </button>
-                            </form>
-                        </div>
-                        <!--<div class="vertical-heading">-->
-                        <!--    <h2>Sign up</h2>-->
-                        <!--</div>-->
-                    </div>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal">&times;</button>
-                  </div>
-                </div>
+                <?php include('includes/query-form.php') ?>
               </div>
             </div>
             <!--signup modal-->

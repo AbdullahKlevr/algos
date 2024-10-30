@@ -122,7 +122,7 @@ curl_setopt_array($curl, array(
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Algosecm Secure Payment</title>
+  <title>Penguin Publishing Experts Secure Payment</title>
     <meta name="description" content=""> 
    
  
@@ -141,7 +141,6 @@ curl_setopt_array($curl, array(
     z-index: 999;
     width: 100%;
     top: 0;
-    background-color: #0000004f;
     padding: 15px 0;
 }
 
@@ -253,10 +252,48 @@ curl_setopt_array($curl, array(
 
     font-size: 9px !important;
 }
-
-
-
 	}
+	
+	.payment_title {
+	    font-weight:700;
+font-size:145.04px;
+line-height:130.54px;
+font-family: 'Poppins', sans-serif;
+text-align:center;
+	}
+	.sub_title {
+	    border: 0.97px solid;
+
+border: 0.97px solid;
+
+border-image-source: linear-gradient(90deg, #FFB800 0%, #FFDC5C 100%);
+
+box-shadow: 0px 1.2px 48.07px 0px #00000082 inset;
+
+box-shadow: 0px 4.81px 21.63px 0px #00000033 inset;
+
+box-shadow: 0px 117.77px 120.17px -57.68px #00000080 inset;
+
+box-shadow: 0px -98.54px 81.71px -76.91px #000000CC inset;
+
+box-shadow: 0px 8.41px 13.22px -4.81px #000000 inset;
+
+box-shadow: 0px 46.87px 103.84px -43.26px #000000 inset;
+
+
+
+	    width:550px;
+	    color:#FFF;
+	    font-size:60px;
+	    display:block;
+	    text-align:center;
+	    border-radius:12px;
+	    margin:0 auto;
+	    position:relative;
+	    top:-30px;
+	    transform:rotate(-3deg);
+	}
+	
 	
 </style>
 </head>
@@ -267,19 +304,24 @@ curl_setopt_array($curl, array(
    <div class="main_nav">
 	
         <div class="container">   
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/HS_ALGOSECOM r1-04.png" alt="logoa" style="width:18%;"> </a>
+            <nav class="navbar navbar-expand-lg navbar-light justify-content-center">
+                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000">
+                     <img class="img-fluid" src="img/logo.png" alt="logoa" style="width:40%; display:block; margin:0 auto"> </a>
                     
             </nav>        
         </div>
     </div>
 </header> 
 
-    <div class="about_area inner_bg" style="background-image:url('img/pink-banner.jpg')">
+    <div class="about_area inner_bg" style="background-image:url('img/Algos.png')">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:white;">Complete Your Payment</h2>
+                    <h2 class="inner_title payment_title" data-aos="fade-up" data-aos-duration="1000" style="color:white;">Complete
+                    <span class="sub_title">
+                        Your Payment
+                    </span>
+                    </h2>
                 </div>
             </div>
         </div>
@@ -296,13 +338,13 @@ curl_setopt_array($curl, array(
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading" style="color:black;">Invoice from Algosecm</h2>
+							<h2 class="card-heading" style="color:black;">Invoice from Penguin Publishing Experts</h2>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					
 						<div class="card-body text-center" style="padding-left:200px;padding-right:200px">
 							<img style="max-width:300px !important" src="img/visa_mastercard.png" alt="stripe payment icon">
-							<form action="stripecharge.php" method="post" id="payment-form">
+							<form action="stripecharge.php" method="POST" id="payment-form">
 							<input type="hidden" name="id" id="lead_id" value="<?php echo $dataLeads->id; ?>" class="form-control">
 							<input type="hidden" name="currency" id="currency" value="<?php echo $currency; ?>" class="form-control">
 							<input type="hidden" name="TOKEN" id="TOKEN" value="<?php echo $_REQUEST['TOKEN']; ?>" class="form-control">
@@ -327,7 +369,7 @@ curl_setopt_array($curl, array(
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">Email</label>
-										<input type="text" name="email" name="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
+										<input type="text" name="email" id="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -515,7 +557,8 @@ curl_setopt_array($curl, array(
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
-
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
 
 <script >
 	$("#btnNav").click(function(){
